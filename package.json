@@ -1,0 +1,12 @@
+{
+  "name": "cdsl-scraper",
+  "private": true,
+  "scripts": {
+    "scrape": "node scripts/scrape.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0",
+    "xlsx": "^0.18.5"
+  }
+}
