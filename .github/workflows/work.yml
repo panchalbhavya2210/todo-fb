@@ -2,7 +2,7 @@ name: Update CDSL Data
 
 on:
   schedule:
-    - cron: "0 2 */15 * *"  
+    - cron: "*/5 * * * *"  
   workflow_dispatch:
 
 jobs:
