@@ -2,8 +2,14 @@ name: Update CDSL Data
 
 on:
   schedule:
-    - cron: "30 3 * * *"  
+    - cron: "30 3 * * *" 
+    
   workflow_dispatch:
+    inputs:
+      source:
+        description: "Who triggered it"
+        required: false
+        default: "manual"
 
 jobs:
   scrape:

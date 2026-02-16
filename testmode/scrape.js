@@ -6,6 +6,19 @@ const XLSX = require("xlsx");
 const BASE_URL =
   "https://www.cdslindia.com/publications/FII/FortnightlySecWisePages/";
 
+/* =========================================================
+   TEST WINDOW CONFIG
+   ========================================================= */
+
+// what you want to analyze (VISIBLE)
+const TEST_MODE = false;
+
+const VIEW_START = new Date(2024, 10, 1); // Nov 1 2024
+const VIEW_END = new Date(2025, 10, 30); // Nov 30 2025
+
+// how much historical data rolling needs
+const LOOKBACK_STATEMENTS = 24; // 360D
+
 const baseAUCName = "AUC as on date > IN INR Cr. > Equity > Equity";
 
 function getAllCdslDates(startYear, endYear) {
@@ -22,10 +35,6 @@ function getAllCdslDates(startYear, endYear) {
   }
   return dates;
 }
-
-/* =========================================================
-    2) CDSL has multiple filename patterns
-    ========================================================= */
 
 function generateCandidateUrls(date) {
   const month = date.toLocaleString("en-US", { month: "long" });
@@ -52,25 +61,36 @@ function generateCandidateUrls(date) {
   ];
 }
 
-/* =========================================================
-    3) Create jobs
-    ========================================================= */
-
 function formScrapeJobs() {
   const today = new Date();
-  const dates = getAllCdslDates(
-    new Date().getFullYear() - 1,
-    new Date().getFullYear(),
-  );
+
+  // generate a wider history automatically
+  const startYear = VIEW_START.getFullYear();
+  const endYear = today.getFullYear();
+
+  const dates = getAllCdslDates(startYear, endYear);
 
   const jobs = [];
 
   for (const date of dates) {
-    const cutoff = new Date();
-    cutoff.setDate(cutoff.getDate() - 400);
-
-    if (date < cutoff) continue;
     if (date > today) continue;
+
+    /* =========================
+       LOOKBACK LOGIC (KEY FIX)
+       ========================= */
+
+    if (TEST_MODE) {
+      // earliest date needed for rolling
+      const earliestRequired = new Date(VIEW_START);
+      earliestRequired.setDate(
+        earliestRequired.getDate() - 15 * LOOKBACK_STATEMENTS,
+      );
+
+      // scrape if inside lookback OR inside view
+      if (date < earliestRequired || date > VIEW_END) continue;
+    }
+
+    /* ========================= */
 
     const humanDate = date.toLocaleDateString("en-US", {
       year: "numeric",
@@ -85,12 +105,9 @@ function formScrapeJobs() {
     });
   }
 
+  console.log("Statements selected:", jobs.length);
   return jobs;
 }
-
-/* =========================================================
-    4) Fetch correct page among multiple patterns
-    ========================================================= */
 
 async function fetchWorkingPage(date) {
   const urls = generateCandidateUrls(date);
@@ -120,10 +137,6 @@ async function fetchWorkingPage(date) {
   console.log("Not Published:", date.toDateString());
   return null;
 }
-
-/* =========================================================
-    5) Extract table
-    ========================================================= */
 
 async function extractOnePage(job) {
   try {
@@ -373,8 +386,7 @@ function parseHumanDate(str) {
     sectors: rollingRows,
   };
 
-  fs.mkdirSync("data", { recursive: true });
-  fs.writeFileSync("data/cdsl-data.json", JSON.stringify(output, null, 2));
+  fs.writeFileSync("cdsl-data.json", JSON.stringify(output, null, 2));
 
   console.log("\nDONE: cdsl-data.json created");
 
