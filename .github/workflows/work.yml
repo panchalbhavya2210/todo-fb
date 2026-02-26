@@ -2,8 +2,8 @@ name: Update Market Data
 
 on:
   schedule:
-    - cron: "30 3 * * *" # CDSL daily
-    - cron: "*/30 * * * *" # NSE every 30 min
+    - cron: "30 3 * * *"
+    - cron: "30 3 * * *"
   workflow_dispatch:
 
 jobs:
