@@ -15,6 +15,7 @@ for (const sym in companies) {
 /* ---------- PATHS ---------- */
 const holdingsPath = path.join(__dirname, "../../data/holdings.json");
 const seenPath = path.join(__dirname, "../../data/seen.json");
+const updatesPath = path.join(__dirname, "../../data/lastUpdates.json");
 
 /* ---------- HELPERS ---------- */
 
@@ -54,6 +55,8 @@ const RSS =
 const parser = new XMLParser();
 
 async function checkRSS() {
+  const newCompanies = [];
+  const revisedCompanies = [];
   const seen = new Set(loadJSON(seenPath, []));
   const holdingsDB = loadJSON(holdingsPath, {});
 
@@ -96,8 +99,13 @@ async function checkRSS() {
     /* ---------- UPSERT ---------- */
     holdingsDB[symbol] ??= {};
 
-    if (holdingsDB[symbol][quarter]) console.log("REVISION:", symbol, quarter);
-    else console.log("NEW:", symbol, quarter);
+    if (holdingsDB[symbol][quarter]) {
+      console.log("REVISION:", symbol, quarter);
+      revisedCompanies.push(symbol);
+    } else {
+      console.log("NEW:", symbol, quarter);
+      newCompanies.push(symbol);
+    }
 
     holdingsDB[symbol][quarter] = holdings;
 
@@ -105,7 +113,19 @@ async function checkRSS() {
 
     seen.add(link);
 
+    const report = {
+      time: new Date().toISOString(),
+      new: [...new Set(newCompanies)],
+      revised: [...new Set(revisedCompanies)],
+      totalProcessed: newCompanies.length + revisedCompanies.length,
+    };
+
+    saveJSON(updatesPath, report);
+
+    console.log("UPDATED COMPANIES:", report);
+
     /* avoid NSE throttle */
+
     await new Promise((r) => setTimeout(r, 1000));
   }
 
