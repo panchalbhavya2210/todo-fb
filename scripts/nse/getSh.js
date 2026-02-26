@@ -5,8 +5,10 @@ const CATEGORY_MAP = require("../../shareHoldingMapper");
 async function getShareholding(xbrlUrl) {
   const xmlRes = await axios.get(xbrlUrl, {
     headers: {
-      "User-Agent": "Mozilla/5.0",
-      Accept: "application/xml,text/xml",
+      "User-Agent":
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36",
+      "Accept-Language": "en-US,en;q=0.9",
+      Accept: "application/xml,text/xml;q=0.9,*/*;q=0.8",
     },
     timeout: 20000,
   });
