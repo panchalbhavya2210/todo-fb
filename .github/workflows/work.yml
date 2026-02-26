@@ -1,20 +1,14 @@
-name: Update CDSL Data
+name: Update Market Data
 
 on:
   schedule:
-    - cron: "30 3 * * *" 
-    
+    - cron: "30 3 * * *" # CDSL daily
+    - cron: "*/30 * * * *" # NSE every 30 min
   workflow_dispatch:
-    inputs:
-      source:
-        description: "Who triggered it"
-        required: false
-        default: "manual"
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
@@ -25,14 +19,27 @@ jobs:
         with:
           node-version: 20
 
-      - run: npm install
+      - name: Install dependencies
+        run: npm install
 
-      - run: npm run scrape
+      # ---- CDSL ----
+      - name: Run CDSL scraper
+        run: npm run scrape
 
-      - name: Commit JSON
+      # ---- NSE ----
+      - name: Run NSE Shareholding scraper
+        run: npm run scrape:nse
+
+      # ---- Commit ----
+      - name: Commit updates
         run: |
-          git config user.name "cdsl-bot"
+          git config user.name "market-data-bot"
           git config user.email "bot@github.com"
-          git add data/cdsl-data.json
-          git commit -m "auto update cdsl data" || echo "no changes"
-          git push
+
+          if [[ `git status --porcelain` ]]; then
+            git add data/*.json
+            git commit -m "auto: market data update"
+            git push
+          else
+            echo "No data changes"
+          fi
