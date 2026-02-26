@@ -3,16 +3,13 @@ const { XMLParser } = require("fast-xml-parser");
 const CATEGORY_MAP = require("../../shareHoldingMapper");
 
 async function getShareholding(xbrlUrl) {
-  const xmlRes = await axios
-    .get(xbrlUrl, {
-      headers,
-      timeout: 20000,
-      maxRedirects: 5,
-      validateStatus: (s) => s < 500,
-    })
-    .catch(() => null);
-
-  if (!xmlRes || !xmlRes.data) return { isin: null, holdings: {} };
+  const xmlRes = await axios.get(xbrlUrl, {
+    headers: {
+      "User-Agent": "Mozilla/5.0",
+      Accept: "application/xml,text/xml",
+    },
+    timeout: 20000,
+  });
 
   const xml = xmlRes.data;
 
