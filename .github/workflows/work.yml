@@ -2,15 +2,16 @@ name: Update Market Data
 
 on:
   schedule:
-    - cron: "30 3 * * *"
-    - cron: "30 3 * * *"
+    - cron: "30 3 * * *"   # runs daily
   workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
+    env:
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
 
     steps:
       - uses: actions/checkout@v4
@@ -20,7 +21,7 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       # ---- CDSL ----
       - name: Run CDSL scraper
@@ -29,17 +30,3 @@ jobs:
       # ---- NSE ----
       - name: Run NSE Shareholding scraper
         run: npm run scrape:nse
-
-      # ---- Commit ----
-      - name: Commit updates
-        run: |
-          git config user.name "market-data-bot"
-          git config user.email "bot@github.com"
-
-          if [[ `git status --porcelain` ]]; then
-            git add data/*.json
-            git commit -m "auto: market data update"
-            git push
-          else
-            echo "No data changes"
-          fi
