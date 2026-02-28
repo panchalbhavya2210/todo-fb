@@ -123,14 +123,29 @@ function parsePeriodRange(periodText) {
 
   if (!match) return null;
 
-  const [_, month, startDay, endDay, year] = match;
+  const [_, monthName, startDay, endDay, year] = match;
 
-  const start = new Date(`${month} ${startDay}, ${year}`);
-  const end = new Date(`${month} ${endDay}, ${year}`);
+  const monthIndex = new Date(`${monthName} 1, ${year}`).getMonth();
+
+  // normalize to CDSL settlement cycle
+  // 1–15  = first fortnight
+  // 16–end = second fortnight
+
+  let period_start, period_end;
+
+  if (Number(endDay) <= 15) {
+    // first half
+    period_start = new Date(Date.UTC(year, monthIndex, 1));
+    period_end = new Date(Date.UTC(year, monthIndex, 15));
+  } else {
+    // second half
+    period_start = new Date(Date.UTC(year, monthIndex, 16));
+    period_end = new Date(Date.UTC(year, monthIndex + 1, 0)); // last day of month
+  }
 
   return {
-    period_start: start.toISOString().slice(0, 10),
-    period_end: end.toISOString().slice(0, 10),
+    period_start: period_start.toISOString().slice(0, 10),
+    period_end: period_end.toISOString().slice(0, 10),
   };
 }
 function parseNumber(text) {
@@ -351,7 +366,7 @@ async function getLatestPeriodEndFromDB() {
   const { data, error } = await supabase
     .from("sector_flows_net")
     .upsert(dbRows, {
-      onConflict: "sector,period_start,period_end",
+      onConflict: "sector,period_end",
       ignoreDuplicates: false,
     });
 
