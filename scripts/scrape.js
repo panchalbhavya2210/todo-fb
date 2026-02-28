@@ -275,19 +275,6 @@ function parseHumanDate(str) {
 
   console.log("Latest statement:", latestKey);
 
-  // helper to get historical statement
-  function getBackDate(indexBack) {
-    if (allDates.length - 1 - indexBack < 0) return null;
-
-    const d = allDates[allDates.length - 1 - indexBack];
-
-    return d.toLocaleDateString("en-US", {
-      year: "numeric",
-      month: "long",
-      day: "numeric",
-    });
-  }
-
   // clean number
   function toNumber(val) {
     if (!val) return null;
@@ -423,10 +410,4 @@ function parseHumanDate(str) {
   }
 
   console.log("Rows inserted/updated:", rowsToUpsert.length);
-
-  const output = {
-    lastUpdated: new Date().toISOString(),
-    latestStatement: latestKey,
-    sectors: rollingRows,
-  };
 })();

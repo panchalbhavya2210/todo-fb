@@ -1,0 +1,3293 @@
+{
+  "lastUpdated": "2026-02-27T17:58:32.844Z",
+  "sectors": {
+    "Automobile and Auto Components": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -1924
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": -3899
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": -690
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -3279
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -3640
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": 776
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": -2562
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": -645
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": 1610
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": -1509
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": -296
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": 5020
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": -1159
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": -2425
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": -814
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": 2617
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": 1908
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": 1733
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": 1560
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": -593
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": -385
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": -1257
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": 611
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": -2656
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -500
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": -3094
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": 511
+      }
+    ],
+    "Capital Goods": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -2620
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": -3077
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": -3206
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -1258
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -1912
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": 1613
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": -3019
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": 2944
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": 2233
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": 3094
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": 1191
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": -3022
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": 922
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": -617
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": 1132
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": 764
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": 1518
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": 1492
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": -851
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": 169
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": 788
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": 1707
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -1218
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": -1348
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": 326
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": 2435
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": 8032
+      }
+    ],
+    "Chemicals": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": 42
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": 313
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": 337
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": 92
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -129
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": 620
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": -309
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": 1184
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": 833
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": 475
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": 1405
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": 987
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": 168
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": 961
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": 410
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": 1161
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": 23
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": -406
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": -316
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": -608
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": -518
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": -660
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -23
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": -25
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": 69
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": 71
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": 642
+      }
+    ],
+    "Construction": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -1623
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": -1256
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": -1886
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -1465
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -864
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": 615
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": -2461
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": -425
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": -190
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": 457
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": -224
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": -14
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": -38
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": -1316
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": 1378
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": -22
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": 130
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": 726
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": 641
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": 1592
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": -330
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": -112
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -175
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": 382
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -455
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": -1077
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": 1745
+      }
+    ],
+    "Construction Materials": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -793
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": -1277
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": -2024
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -1820
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -1465
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": -132
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": -612
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": 415
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": 155
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": 420
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": -584
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": 842
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": 136
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": 193
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": 1690
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": 785
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": -1193
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": -220
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": -94
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": -1198
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": -369
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": -492
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -1125
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": -549
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -481
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": -376
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": 378
+      }
+    ],
+    "Consumer Durables": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -931
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": -2869
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": -1049
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -1241
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -1566
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": 48
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": -1026
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": 965
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": -622
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": -1112
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": -1893
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": -600
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": -1292
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": -1322
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": -1133
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": -836
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": -326
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": -3301
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": -213
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": -1543
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": -1379
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": 1273
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": 401
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": 198
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": 322
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": -1372
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": -434
+      }
+    ],
+    "Consumer Services": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -3507
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": -4840
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": -2262
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -595
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -1900
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": -1158
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": -166
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": 1963
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": 1240
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": -1731
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": -1461
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": 2809
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": 953
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": 2064
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": -948
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": 490
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": -3246
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": -114
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": -1785
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": -1677
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": -2918
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": -1075
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -50
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": 3390
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -1952
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": -3561
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": 1066
+      }
+    ],
+    "Diversified": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -60
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": 287
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": -2
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -249
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -279
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": -38
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": 28
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": 5
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": -1
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": -111
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": -353
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": -102
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": -22
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": -35
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": -58
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": -55
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": -34
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": -186
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": -34
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": -70
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": 46
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": 10
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -80
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": -29
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -14
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": 5
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": -2
+      }
+    ],
+    "Fast Moving Consumer Goods": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -1134
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": -4294
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": -4336
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -2568
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -5106
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": -487
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": 587
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": 2330
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": -1057
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": 1872
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": -3626
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": -359
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": -1428
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": 2986
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": -1150
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": 53
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": -1092
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": -3110
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": -2992
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": -1267
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": -2042
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": -2722
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -1419
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": -4425
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -6128
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": -1369
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": -1182
+      }
+    ],
+    "Financial Services": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -12204
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": -12745
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": -5344
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -1647
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -3311
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": 17585
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": -4501
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": 22910
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": 4728
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": -700
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": 4685
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": 4261
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": 820
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": -6720
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": -13471
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": -9817
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": 1634
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": -642
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": 8276
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": 5003
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": -2041
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": -1137
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -6516
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": -4009
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -3190
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": -5402
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": 6175
+      }
+    ],
+    "Forest Materials": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -80
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": -35
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": 11
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -28
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -22
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": 40
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": -19
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": -15
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": -12
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": 21
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": -15
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": -27
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": 14
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": 25
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": -21
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": -27
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": -9
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": -15
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": 77
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": 17
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": -12
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": -19
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -54
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -10
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": 12
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": 30
+      }
+    ],
+    "Healthcare": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -1460
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": -2912
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": 1534
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -2996
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -2049
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": 2138
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": -1384
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": 656
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": -606
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": -2008
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": 39
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": -442
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": -757
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": 700
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": -2095
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": 678
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": -1601
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": -4521
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": -2739
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": -365
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": -2526
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": 743
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -2351
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": -643
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -1049
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": -5113
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": -1051
+      }
+    ],
+    "Information Technology": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -1927
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": -4544
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": 693
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": 112
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -6934
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": -1517
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": -13828
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": -1385
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": 289
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": -2725
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": -1713
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": 2879
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": -5479
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": -14422
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": -6380
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": -4905
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": -2014
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": -4036
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": -1927
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": -267
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": -4873
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": -921
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -3331
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": 4457
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -2075
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": 240
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": -10956
+      }
+    ],
+    "Media, Entertainment & Publication": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": 177
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": 3
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": -12
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": 34
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": 143
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": 303
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": 103
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": 9
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": 92
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": 45
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": 108
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": -74
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": -91
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": -106
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": -14
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": 179
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": -16
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": 93
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": 87
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": -133
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": -148
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": -161
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -39
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": -281
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -123
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": -55
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": 134
+      }
+    ],
+    "Metals & Mining": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -1997
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": -385
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": -558
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -606
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": 1179
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": 722
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": -2829
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": -574
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": 104
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": -34
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": -558
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": 201
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": 1724
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": 1641
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": 606
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": -1266
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": 1394
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": 446
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": 1395
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": 1752
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": -109
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": -571
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": 807
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": 2177
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": 2689
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": 8837
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": 3279
+      }
+    ],
+    "Oil, Gas & Consumable Fuels": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -1203
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": -369
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": -2434
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -943
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -970
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": -2449
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": -2759
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": 2401
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": 2130
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": 390
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": 1199
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": 4938
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": 905
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": -4177
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": -4091
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": -2017
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": -1502
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": 728
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": 1086
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": 8043
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": 2992
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": 4177
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": 3001
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": -645
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -549
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": -391
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": 4678
+      }
+    ],
+    "Power": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -3115
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": -1083
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": -1852
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -1234
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -1867
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": 1627
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": 29
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": 878
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": -720
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": -1774
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": -3120
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": -3191
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": 203
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": -141
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": -2358
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": -1708
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": -2107
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": -586
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": 1103
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": -138
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": -2512
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": -103
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -2118
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": -635
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -340
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": -1527
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": 3272
+      }
+    ],
+    "Realty": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -608
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": -394
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": -782
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -407
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -27
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": 612
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": -360
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": -353
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": -842
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": -822
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": 431
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": 910
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": -249
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": -3684
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": -1211
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": -34
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": -1927
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": -332
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": -807
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": 1
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": 236
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": -1045
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -670
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": -271
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -699
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": -1956
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": 786
+      }
+    ],
+    "Services": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -259
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": -1334
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": 267
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -84
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": 305
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": 273
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": -1175
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": 983
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": 1762
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": 6210
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": 403
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": -57
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": 2733
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": 724
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": 384
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": 1967
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": 236
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": -1222
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": 234
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": -21
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": -673
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": -307
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -3237
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": -1041
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -1587
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": -384
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": 1286
+      }
+    ],
+    "Telecommunication": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -499
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": 643
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": 2337
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": 5661
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -340
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": 3413
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": 2137
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": 2511
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": 1037
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": 7052
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": -887
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": 3620
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": 283
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": 1190
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": 7446
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": -1680
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": -1505
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": -917
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": 73
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": 2087
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": 9413
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": 4913
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -879
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": 1113
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -1497
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": -3280
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": -106
+      }
+    ],
+    "Textiles": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": 205
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": 397
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": 158
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -125
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -23
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": -53
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": -72
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": -72
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": -92
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": 3
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": 209
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": -5
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": 234
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": 42
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": -228
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": -422
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": -119
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": -39
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": -203
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": -156
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": -186
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": -140
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -263
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": -274
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -176
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": -99
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": -67
+      }
+    ],
+    "Utilities": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": 1
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": -47
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": -57
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": -19
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": -7
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": 26
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": -26
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": 35
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": 7
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": 16
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": 4
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": -36
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": -9
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": -9
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": -24
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": 15
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": -46
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": 11
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": 1
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": 14
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": 8
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": 27
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": -13
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": -17
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -126
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": 24
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": -14
+      }
+    ],
+    "Sovereign": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": 0
+      }
+    ],
+    "Others": [
+      {
+        "period_start": "2024-12-31",
+        "period_end": "2025-01-14",
+        "net_investment_equity": -138
+      },
+      {
+        "period_start": "2025-01-15",
+        "period_end": "2025-01-30",
+        "net_investment_equity": 1348
+      },
+      {
+        "period_start": "2025-01-31",
+        "period_end": "2025-02-14",
+        "net_investment_equity": -116
+      },
+      {
+        "period_start": "2025-02-15",
+        "period_end": "2025-02-27",
+        "net_investment_equity": 1362
+      },
+      {
+        "period_start": "2025-02-28",
+        "period_end": "2025-03-14",
+        "net_investment_equity": 771
+      },
+      {
+        "period_start": "2025-03-15",
+        "period_end": "2025-03-30",
+        "net_investment_equity": 1466
+      },
+      {
+        "period_start": "2025-03-31",
+        "period_end": "2025-04-14",
+        "net_investment_equity": 297
+      },
+      {
+        "period_start": "2025-04-15",
+        "period_end": "2025-04-29",
+        "net_investment_equity": 1431
+      },
+      {
+        "period_start": "2025-04-30",
+        "period_end": "2025-05-14",
+        "net_investment_equity": 796
+      },
+      {
+        "period_start": "2025-05-15",
+        "period_end": "2025-05-30",
+        "net_investment_equity": -540
+      },
+      {
+        "period_start": "2025-05-31",
+        "period_end": "2025-06-14",
+        "net_investment_equity": -348
+      },
+      {
+        "period_start": "2025-06-15",
+        "period_end": "2025-06-29",
+        "net_investment_equity": 1453
+      },
+      {
+        "period_start": "2025-06-30",
+        "period_end": "2025-07-14",
+        "net_investment_equity": -17
+      },
+      {
+        "period_start": "2025-07-15",
+        "period_end": "2025-07-30",
+        "net_investment_equity": 8153
+      },
+      {
+        "period_start": "2025-07-31",
+        "period_end": "2025-08-14",
+        "net_investment_equity": -26
+      },
+      {
+        "period_start": "2025-08-15",
+        "period_end": "2025-08-30",
+        "net_investment_equity": 60
+      },
+      {
+        "period_start": "2025-08-31",
+        "period_end": "2025-09-14",
+        "net_investment_equity": 133
+      },
+      {
+        "period_start": "2025-09-15",
+        "period_end": "2025-09-29",
+        "net_investment_equity": 294
+      },
+      {
+        "period_start": "2025-09-30",
+        "period_end": "2025-10-14",
+        "net_investment_equity": 1060
+      },
+      {
+        "period_start": "2025-10-15",
+        "period_end": "2025-10-30",
+        "net_investment_equity": 338
+      },
+      {
+        "period_start": "2025-10-31",
+        "period_end": "2025-11-14",
+        "net_investment_equity": 1446
+      },
+      {
+        "period_start": "2025-11-15",
+        "period_end": "2025-11-29",
+        "net_investment_equity": 199
+      },
+      {
+        "period_start": "2025-11-30",
+        "period_end": "2025-12-14",
+        "net_investment_equity": 918
+      },
+      {
+        "period_start": "2025-12-15",
+        "period_end": "2025-12-30",
+        "net_investment_equity": 338
+      },
+      {
+        "period_start": "2025-12-31",
+        "period_end": "2026-01-14",
+        "net_investment_equity": -1469
+      },
+      {
+        "period_start": "2026-01-15",
+        "period_end": "2026-01-30",
+        "net_investment_equity": 486
+      },
+      {
+        "period_start": "2026-01-31",
+        "period_end": "2026-02-14",
+        "net_investment_equity": 1473
+      }
+    ]
+  }
+}

@@ -2,7 +2,8 @@ name: Update Market Data
 
 on:
   schedule:
-    - cron: "30 3 * * *"   # runs daily
+    - cron: "30 3 * * *" 
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -30,3 +31,7 @@ jobs:
       # ---- NSE ----
       - name: Run NSE Shareholding scraper
         run: npm run scrape:nse
+
+        # ---- NET ----
+      - name: Run NET Shareholding scraper
+        run: npm run scrape:net

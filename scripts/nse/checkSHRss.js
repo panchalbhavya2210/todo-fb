@@ -73,10 +73,11 @@ async function checkRSS() {
   const feed = parser.parse(xml.data);
 
   let items = feed.rss.channel.item;
+  if (!items || items.length === 0 || items === undefined) return null;
   if (!Array.isArray(items)) items = [items];
 
   for (const item of items) {
-    const link = item.link;
+    const link = item?.link;
     if (seen.has(link)) continue;
 
     console.log("NEW FILING:", link);

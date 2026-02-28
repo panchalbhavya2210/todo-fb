@@ -1,15 +1,8 @@
 {
-  "time": "2026-02-26T18:05:54.276Z",
-  "new": [],
-  "revised": [
-    "GPTINFRA",
-    "KPIGREEN",
-    "DELPHIFX",
-    "GRANULES",
-    "KANPRPLA",
-    "DCW",
-    "PAKKA",
-    "MALUPAPER"
+  "time": "2026-02-28T14:18:40.401Z",
+  "new": [
+    "VIRINCHI"
   ],
-  "totalProcessed": 10
+  "revised": [],
+  "totalProcessed": 1
 }

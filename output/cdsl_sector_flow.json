@@ -1,0 +1,2735 @@
+{
+  "lastUpdated": "2026-02-27T15:39:31.976Z",
+  "statements": [
+    {
+      "statement_date": "2025-01-31",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 498326
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 350248
+        },
+        {
+          "sector": "Chemicals",
+          "value": 110954
+        },
+        {
+          "sector": "Construction",
+          "value": 130937
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 109982
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 205428
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 309034
+        },
+        {
+          "sector": "Diversified",
+          "value": 6632
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 391878
+        },
+        {
+          "sector": "Financial Services",
+          "value": 1947105
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 3451
+        },
+        {
+          "sector": "Healthcare",
+          "value": 472926
+        },
+        {
+          "sector": "Information Technology",
+          "value": 727585
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 12258
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 184858
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 471682
+        },
+        {
+          "sector": "Power",
+          "value": 249371
+        },
+        {
+          "sector": "Realty",
+          "value": 148998
+        },
+        {
+          "sector": "Services",
+          "value": 131575
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 275404
+        },
+        {
+          "sector": "Textiles",
+          "value": 26044
+        },
+        {
+          "sector": "Utilities",
+          "value": 3250
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 31727
+        },
+        {
+          "sector": "Grand Total",
+          "value": 6799652
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-02-15",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 494578
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 345699
+        },
+        {
+          "sector": "Chemicals",
+          "value": 115367
+        },
+        {
+          "sector": "Construction",
+          "value": 131793
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 116187
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 197231
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 291085
+        },
+        {
+          "sector": "Diversified",
+          "value": 6300
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 395306
+        },
+        {
+          "sector": "Financial Services",
+          "value": 1966433
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 3524
+        },
+        {
+          "sector": "Healthcare",
+          "value": 467065
+        },
+        {
+          "sector": "Information Technology",
+          "value": 698631
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 11593
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 186285
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 471684
+        },
+        {
+          "sector": "Power",
+          "value": 245274
+        },
+        {
+          "sector": "Realty",
+          "value": 148075
+        },
+        {
+          "sector": "Services",
+          "value": 130743
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 278276
+        },
+        {
+          "sector": "Textiles",
+          "value": 24558
+        },
+        {
+          "sector": "Utilities",
+          "value": 2983
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 47665
+        },
+        {
+          "sector": "Grand Total",
+          "value": 6776336
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-02-28",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 471157
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 301377
+        },
+        {
+          "sector": "Chemicals",
+          "value": 109510
+        },
+        {
+          "sector": "Construction",
+          "value": 115204
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 112011
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 185483
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 274237
+        },
+        {
+          "sector": "Diversified",
+          "value": 5487
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 366455
+        },
+        {
+          "sector": "Financial Services",
+          "value": 1933679
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 3297
+        },
+        {
+          "sector": "Healthcare",
+          "value": 446659
+        },
+        {
+          "sector": "Information Technology",
+          "value": 678374
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 10875
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 180754
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 444814
+        },
+        {
+          "sector": "Power",
+          "value": 217780
+        },
+        {
+          "sector": "Realty",
+          "value": 133787
+        },
+        {
+          "sector": "Services",
+          "value": 125907
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 290820
+        },
+        {
+          "sector": "Textiles",
+          "value": 22627
+        },
+        {
+          "sector": "Utilities",
+          "value": 2722
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 44831
+        },
+        {
+          "sector": "Grand Total",
+          "value": 6477847
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-03-15",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 435188
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 284893
+        },
+        {
+          "sector": "Chemicals",
+          "value": 106791
+        },
+        {
+          "sector": "Construction",
+          "value": 110402
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 102114
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 179028
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 267418
+        },
+        {
+          "sector": "Diversified",
+          "value": 5875
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 346182
+        },
+        {
+          "sector": "Financial Services",
+          "value": 1923223
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 2955
+        },
+        {
+          "sector": "Healthcare",
+          "value": 425078
+        },
+        {
+          "sector": "Information Technology",
+          "value": 615512
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 10203
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 180267
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 436844
+        },
+        {
+          "sector": "Power",
+          "value": 213106
+        },
+        {
+          "sector": "Realty",
+          "value": 127585
+        },
+        {
+          "sector": "Services",
+          "value": 126222
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 272360
+        },
+        {
+          "sector": "Textiles",
+          "value": 21633
+        },
+        {
+          "sector": "Utilities",
+          "value": 2556
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 43035
+        },
+        {
+          "sector": "Grand Total",
+          "value": 6238469
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-03-31",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 436583
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 296299
+        },
+        {
+          "sector": "Chemicals",
+          "value": 111088
+        },
+        {
+          "sector": "Construction",
+          "value": 110406
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 102830
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 178245
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 259165
+        },
+        {
+          "sector": "Diversified",
+          "value": 5807
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 350161
+        },
+        {
+          "sector": "Financial Services",
+          "value": 1920389
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 2833
+        },
+        {
+          "sector": "Healthcare",
+          "value": 434873
+        },
+        {
+          "sector": "Information Technology",
+          "value": 588526
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 10715
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 194087
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 453365
+        },
+        {
+          "sector": "Power",
+          "value": 227392
+        },
+        {
+          "sector": "Realty",
+          "value": 127246
+        },
+        {
+          "sector": "Services",
+          "value": 130022
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 281477
+        },
+        {
+          "sector": "Textiles",
+          "value": 21798
+        },
+        {
+          "sector": "Utilities",
+          "value": 2537
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 40176
+        },
+        {
+          "sector": "Grand Total",
+          "value": 6286022
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-04-15",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 450908
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 324758
+        },
+        {
+          "sector": "Chemicals",
+          "value": 116306
+        },
+        {
+          "sector": "Construction",
+          "value": 121372
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 113627
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 184666
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 270821
+        },
+        {
+          "sector": "Diversified",
+          "value": 4697
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 367410
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2088398
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 3102
+        },
+        {
+          "sector": "Healthcare",
+          "value": 462709
+        },
+        {
+          "sector": "Information Technology",
+          "value": 599150
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 11290
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 200316
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 467424
+        },
+        {
+          "sector": "Power",
+          "value": 247897
+        },
+        {
+          "sector": "Realty",
+          "value": 136352
+        },
+        {
+          "sector": "Services",
+          "value": 138893
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 301272
+        },
+        {
+          "sector": "Textiles",
+          "value": 22595
+        },
+        {
+          "sector": "Utilities",
+          "value": 2339
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 44180
+        },
+        {
+          "sector": "Grand Total",
+          "value": 6680481
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-04-30",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 446481
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 309377
+        },
+        {
+          "sector": "Chemicals",
+          "value": 120154
+        },
+        {
+          "sector": "Construction",
+          "value": 112486
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 116176
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 189833
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 278551
+        },
+        {
+          "sector": "Diversified",
+          "value": 4781
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 384037
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2108949
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 3007
+        },
+        {
+          "sector": "Healthcare",
+          "value": 458717
+        },
+        {
+          "sector": "Information Technology",
+          "value": 528414
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 11998
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 183795
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 454640
+        },
+        {
+          "sector": "Power",
+          "value": 254180
+        },
+        {
+          "sector": "Realty",
+          "value": 133245
+        },
+        {
+          "sector": "Services",
+          "value": 139737
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 317026
+        },
+        {
+          "sector": "Textiles",
+          "value": 23851
+        },
+        {
+          "sector": "Utilities",
+          "value": 2326
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 45140
+        },
+        {
+          "sector": "Grand Total",
+          "value": 6626900
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-05-15",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 468081
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 324394
+        },
+        {
+          "sector": "Chemicals",
+          "value": 123105
+        },
+        {
+          "sector": "Construction",
+          "value": 113778
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 115424
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 192451
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 287151
+        },
+        {
+          "sector": "Diversified",
+          "value": 4622
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 389188
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2198183
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 3045
+        },
+        {
+          "sector": "Healthcare",
+          "value": 471282
+        },
+        {
+          "sector": "Information Technology",
+          "value": 563000
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 11839
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 184963
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 504059
+        },
+        {
+          "sector": "Power",
+          "value": 252078
+        },
+        {
+          "sector": "Realty",
+          "value": 140684
+        },
+        {
+          "sector": "Services",
+          "value": 142248
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 331486
+        },
+        {
+          "sector": "Textiles",
+          "value": 23727
+        },
+        {
+          "sector": "Utilities",
+          "value": 2160
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 47189
+        },
+        {
+          "sector": "Grand Total",
+          "value": 6894137
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-05-31",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 501610
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 353582
+        },
+        {
+          "sector": "Chemicals",
+          "value": 125730
+        },
+        {
+          "sector": "Construction",
+          "value": 123480
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 119140
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 197016
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 297253
+        },
+        {
+          "sector": "Diversified",
+          "value": 4734
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 392121
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2243421
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 3258
+        },
+        {
+          "sector": "Healthcare",
+          "value": 474937
+        },
+        {
+          "sector": "Information Technology",
+          "value": 603929
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 12878
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 199112
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 522486
+        },
+        {
+          "sector": "Power",
+          "value": 250495
+        },
+        {
+          "sector": "Realty",
+          "value": 140475
+        },
+        {
+          "sector": "Services",
+          "value": 156158
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 332526
+        },
+        {
+          "sector": "Textiles",
+          "value": 25246
+        },
+        {
+          "sector": "Utilities",
+          "value": 2404
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 50083
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7132075
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-06-15",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 491804
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 378879
+        },
+        {
+          "sector": "Chemicals",
+          "value": 127574
+        },
+        {
+          "sector": "Construction",
+          "value": 127222
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 113475
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 191917
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 288542
+        },
+        {
+          "sector": "Diversified",
+          "value": 4763
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 386868
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2257620
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 3448
+        },
+        {
+          "sector": "Healthcare",
+          "value": 468729
+        },
+        {
+          "sector": "Information Technology",
+          "value": 587238
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 13236
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 197119
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 514852
+        },
+        {
+          "sector": "Power",
+          "value": 245918
+        },
+        {
+          "sector": "Realty",
+          "value": 147493
+        },
+        {
+          "sector": "Services",
+          "value": 161268
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 338241
+        },
+        {
+          "sector": "Textiles",
+          "value": 24946
+        },
+        {
+          "sector": "Utilities",
+          "value": 2668
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 52539
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7126360
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-06-30",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 490153
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 379132
+        },
+        {
+          "sector": "Chemicals",
+          "value": 131258
+        },
+        {
+          "sector": "Construction",
+          "value": 124748
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 114767
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 186335
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 289708
+        },
+        {
+          "sector": "Diversified",
+          "value": 4652
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 377744
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2137234
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 3734
+        },
+        {
+          "sector": "Healthcare",
+          "value": 485293
+        },
+        {
+          "sector": "Information Technology",
+          "value": 599627
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 13534
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 196666
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 515705
+        },
+        {
+          "sector": "Power",
+          "value": 243253
+        },
+        {
+          "sector": "Realty",
+          "value": 156167
+        },
+        {
+          "sector": "Services",
+          "value": 161120
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 333911
+        },
+        {
+          "sector": "Textiles",
+          "value": 24798
+        },
+        {
+          "sector": "Utilities",
+          "value": 2582
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 179804
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7151924
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-07-15",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 510983
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 394124
+        },
+        {
+          "sector": "Chemicals",
+          "value": 137226
+        },
+        {
+          "sector": "Construction",
+          "value": 127820
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 122722
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 194034
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 313844
+        },
+        {
+          "sector": "Diversified",
+          "value": 4531
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 381081
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2343322
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 3716
+        },
+        {
+          "sector": "Healthcare",
+          "value": 490839
+        },
+        {
+          "sector": "Information Technology",
+          "value": 607777
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 13621
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 204710
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 542676
+        },
+        {
+          "sector": "Power",
+          "value": 247251
+        },
+        {
+          "sector": "Realty",
+          "value": 154561
+        },
+        {
+          "sector": "Services",
+          "value": 172192
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 367820
+        },
+        {
+          "sector": "Textiles",
+          "value": 26087
+        },
+        {
+          "sector": "Utilities",
+          "value": 2480
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 55438
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7418858
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-07-31",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 509003
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 392113
+        },
+        {
+          "sector": "Chemicals",
+          "value": 135592
+        },
+        {
+          "sector": "Construction",
+          "value": 122434
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 125173
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 193422
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 307682
+        },
+        {
+          "sector": "Diversified",
+          "value": 4433
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 392609
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2325641
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 3578
+        },
+        {
+          "sector": "Healthcare",
+          "value": 500962
+        },
+        {
+          "sector": "Information Technology",
+          "value": 578096
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 13492
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 203647
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 540234
+        },
+        {
+          "sector": "Power",
+          "value": 249685
+        },
+        {
+          "sector": "Realty",
+          "value": 154130
+        },
+        {
+          "sector": "Services",
+          "value": 176066
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 355140
+        },
+        {
+          "sector": "Textiles",
+          "value": 26297
+        },
+        {
+          "sector": "Utilities",
+          "value": 2456
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 52444
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7364330
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-08-15",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 501618
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 379369
+        },
+        {
+          "sector": "Chemicals",
+          "value": 137733
+        },
+        {
+          "sector": "Construction",
+          "value": 122926
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 124187
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 189879
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 322786
+        },
+        {
+          "sector": "Diversified",
+          "value": 4504
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 398986
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2277046
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 3144
+        },
+        {
+          "sector": "Healthcare",
+          "value": 503415
+        },
+        {
+          "sector": "Information Technology",
+          "value": 530868
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 12597
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 203138
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 505294
+        },
+        {
+          "sector": "Power",
+          "value": 240892
+        },
+        {
+          "sector": "Realty",
+          "value": 138735
+        },
+        {
+          "sector": "Services",
+          "value": 171375
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 349013
+        },
+        {
+          "sector": "Textiles",
+          "value": 25645
+        },
+        {
+          "sector": "Utilities",
+          "value": 2493
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 50970
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7196613
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-08-31",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 512110
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 373595
+        },
+        {
+          "sector": "Chemicals",
+          "value": 133377
+        },
+        {
+          "sector": "Construction",
+          "value": 124536
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 126115
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 186627
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 328751
+        },
+        {
+          "sector": "Diversified",
+          "value": 4398
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 396235
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2239585
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 2987
+        },
+        {
+          "sector": "Healthcare",
+          "value": 494378
+        },
+        {
+          "sector": "Information Technology",
+          "value": 516207
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 12794
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 202154
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 492821
+        },
+        {
+          "sector": "Power",
+          "value": 235558
+        },
+        {
+          "sector": "Realty",
+          "value": 132829
+        },
+        {
+          "sector": "Services",
+          "value": 170644
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 346934
+        },
+        {
+          "sector": "Textiles",
+          "value": 22536
+        },
+        {
+          "sector": "Utilities",
+          "value": 2432
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 51129
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7108732
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-09-15",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 533262
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 371447
+        },
+        {
+          "sector": "Chemicals",
+          "value": 133984
+        },
+        {
+          "sector": "Construction",
+          "value": 121875
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 128186
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 190443
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 331118
+        },
+        {
+          "sector": "Diversified",
+          "value": 4422
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 406541
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2165190
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 2978
+        },
+        {
+          "sector": "Healthcare",
+          "value": 484373
+        },
+        {
+          "sector": "Information Technology",
+          "value": 515520
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 12588
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 199753
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 483436
+        },
+        {
+          "sector": "Power",
+          "value": 227232
+        },
+        {
+          "sector": "Realty",
+          "value": 131705
+        },
+        {
+          "sector": "Services",
+          "value": 168570
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 347806
+        },
+        {
+          "sector": "Textiles",
+          "value": 22342
+        },
+        {
+          "sector": "Utilities",
+          "value": 2284
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 47620
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7032675
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-09-30",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 572718
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 396438
+        },
+        {
+          "sector": "Chemicals",
+          "value": 134628
+        },
+        {
+          "sector": "Construction",
+          "value": 123394
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 125748
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 192985
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 333421
+        },
+        {
+          "sector": "Diversified",
+          "value": 4399
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 398659
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2241088
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 3114
+        },
+        {
+          "sector": "Healthcare",
+          "value": 493567
+        },
+        {
+          "sector": "Information Technology",
+          "value": 524387
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 12746
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 216264
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 497802
+        },
+        {
+          "sector": "Power",
+          "value": 235850
+        },
+        {
+          "sector": "Realty",
+          "value": 134151
+        },
+        {
+          "sector": "Services",
+          "value": 174103
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 351744
+        },
+        {
+          "sector": "Textiles",
+          "value": 23108
+        },
+        {
+          "sector": "Utilities",
+          "value": 2351
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 48619
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7241284
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-10-15",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 569410
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 390619
+        },
+        {
+          "sector": "Chemicals",
+          "value": 130244
+        },
+        {
+          "sector": "Construction",
+          "value": 125139
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 123293
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 179900
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 322971
+        },
+        {
+          "sector": "Diversified",
+          "value": 4041
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 382507
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2205698
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 2890
+        },
+        {
+          "sector": "Healthcare",
+          "value": 471040
+        },
+        {
+          "sector": "Information Technology",
+          "value": 489214
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 12342
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 220587
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 493881
+        },
+        {
+          "sector": "Power",
+          "value": 239362
+        },
+        {
+          "sector": "Realty",
+          "value": 127751
+        },
+        {
+          "sector": "Services",
+          "value": 170538
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 345086
+        },
+        {
+          "sector": "Textiles",
+          "value": 21698
+        },
+        {
+          "sector": "Utilities",
+          "value": 2207
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 45668
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7076087
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-10-31",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 558431
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 392533
+        },
+        {
+          "sector": "Chemicals",
+          "value": 131870
+        },
+        {
+          "sector": "Construction",
+          "value": 130256
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 124485
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 184823
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 332396
+        },
+        {
+          "sector": "Diversified",
+          "value": 3800
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 378761
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2302829
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 2954
+        },
+        {
+          "sector": "Healthcare",
+          "value": 485477
+        },
+        {
+          "sector": "Information Technology",
+          "value": 508584
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 12363
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 225788
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 499285
+        },
+        {
+          "sector": "Power",
+          "value": 248623
+        },
+        {
+          "sector": "Realty",
+          "value": 133726
+        },
+        {
+          "sector": "Services",
+          "value": 175977
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 361872
+        },
+        {
+          "sector": "Textiles",
+          "value": 21465
+        },
+        {
+          "sector": "Utilities",
+          "value": 2170
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 50050
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7268519
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-11-15",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 560155
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 399524
+        },
+        {
+          "sector": "Chemicals",
+          "value": 131375
+        },
+        {
+          "sector": "Construction",
+          "value": 137361
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 121354
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 187097
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 318091
+        },
+        {
+          "sector": "Diversified",
+          "value": 3850
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 384785
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2322940
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 3203
+        },
+        {
+          "sector": "Healthcare",
+          "value": 485212
+        },
+        {
+          "sector": "Information Technology",
+          "value": 515320
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 12311
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 236145
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 540121
+        },
+        {
+          "sector": "Power",
+          "value": 249823
+        },
+        {
+          "sector": "Realty",
+          "value": 138521
+        },
+        {
+          "sector": "Services",
+          "value": 174599
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 378887
+        },
+        {
+          "sector": "Textiles",
+          "value": 22032
+        },
+        {
+          "sector": "Utilities",
+          "value": 2194
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 51291
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7376190
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-11-30",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 563335
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 423542
+        },
+        {
+          "sector": "Chemicals",
+          "value": 130903
+        },
+        {
+          "sector": "Construction",
+          "value": 134982
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 117455
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 188991
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 304112
+        },
+        {
+          "sector": "Diversified",
+          "value": 4036
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 378825
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2348530
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 3010
+        },
+        {
+          "sector": "Healthcare",
+          "value": 482277
+        },
+        {
+          "sector": "Information Technology",
+          "value": 516924
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 11643
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 233100
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 552115
+        },
+        {
+          "sector": "Power",
+          "value": 238235
+        },
+        {
+          "sector": "Realty",
+          "value": 138297
+        },
+        {
+          "sector": "Services",
+          "value": 178761
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 400370
+        },
+        {
+          "sector": "Textiles",
+          "value": 21835
+        },
+        {
+          "sector": "Utilities",
+          "value": 2148
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 54323
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7427750
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-12-15",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 571606
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 418470
+        },
+        {
+          "sector": "Chemicals",
+          "value": 129454
+        },
+        {
+          "sector": "Construction",
+          "value": 136054
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 115191
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 188944
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 300983
+        },
+        {
+          "sector": "Diversified",
+          "value": 3967
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 373390
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2382843
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 2976
+        },
+        {
+          "sector": "Healthcare",
+          "value": 487130
+        },
+        {
+          "sector": "Information Technology",
+          "value": 518369
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 11453
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 227554
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 561923
+        },
+        {
+          "sector": "Power",
+          "value": 233495
+        },
+        {
+          "sector": "Realty",
+          "value": 131684
+        },
+        {
+          "sector": "Services",
+          "value": 179347
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 403740
+        },
+        {
+          "sector": "Textiles",
+          "value": 21393
+        },
+        {
+          "sector": "Utilities",
+          "value": 2083
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 55819
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7457871
+        }
+      ]
+    },
+    {
+      "statement_date": "2025-12-31",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 565617
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 410349
+        },
+        {
+          "sector": "Chemicals",
+          "value": 129117
+        },
+        {
+          "sector": "Construction",
+          "value": 135757
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 115572
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 183885
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 298502
+        },
+        {
+          "sector": "Diversified",
+          "value": 3879
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 368017
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2357362
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 2861
+        },
+        {
+          "sector": "Healthcare",
+          "value": 473471
+        },
+        {
+          "sector": "Information Technology",
+          "value": 539726
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 11168
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 234260
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 561843
+        },
+        {
+          "sector": "Power",
+          "value": 227929
+        },
+        {
+          "sector": "Realty",
+          "value": 128275
+        },
+        {
+          "sector": "Services",
+          "value": 164718
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 398970
+        },
+        {
+          "sector": "Textiles",
+          "value": 19975
+        },
+        {
+          "sector": "Utilities",
+          "value": 1959
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 53844
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7387056
+        }
+      ]
+    },
+    {
+      "statement_date": "2026-01-15",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 574896
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 415937
+        },
+        {
+          "sector": "Chemicals",
+          "value": 130757
+        },
+        {
+          "sector": "Construction",
+          "value": 136801
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 115269
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 183374
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 294970
+        },
+        {
+          "sector": "Diversified",
+          "value": 3809
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 366905
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2363331
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 2782
+        },
+        {
+          "sector": "Healthcare",
+          "value": 470466
+        },
+        {
+          "sector": "Information Technology",
+          "value": 537779
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 10908
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 247958
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 568986
+        },
+        {
+          "sector": "Power",
+          "value": 228307
+        },
+        {
+          "sector": "Realty",
+          "value": 126915
+        },
+        {
+          "sector": "Services",
+          "value": 163976
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 406630
+        },
+        {
+          "sector": "Textiles",
+          "value": 19189
+        },
+        {
+          "sector": "Utilities",
+          "value": 2019
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 54481
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7426445
+        }
+      ]
+    },
+    {
+      "statement_date": "2026-01-31",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 563433
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 407417
+        },
+        {
+          "sector": "Chemicals",
+          "value": 129018
+        },
+        {
+          "sector": "Construction",
+          "value": 128767
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 116911
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 184482
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 290172
+        },
+        {
+          "sector": "Diversified",
+          "value": 3757
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 345506
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2251711
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 2604
+        },
+        {
+          "sector": "Healthcare",
+          "value": 467001
+        },
+        {
+          "sector": "Information Technology",
+          "value": 533568
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 10575
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 261299
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 536704
+        },
+        {
+          "sector": "Power",
+          "value": 226022
+        },
+        {
+          "sector": "Realty",
+          "value": 122588
+        },
+        {
+          "sector": "Services",
+          "value": 155727
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 391749
+        },
+        {
+          "sector": "Textiles",
+          "value": 17735
+        },
+        {
+          "sector": "Utilities",
+          "value": 1740
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 91398
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7239883
+        }
+      ]
+    },
+    {
+      "statement_date": "2026-02-15",
+      "sectors": [
+        {
+          "sector": "Automobile and Auto Components",
+          "value": 536293
+        },
+        {
+          "sector": "Capital Goods",
+          "value": 421683
+        },
+        {
+          "sector": "Chemicals",
+          "value": 123952
+        },
+        {
+          "sector": "Construction",
+          "value": 128935
+        },
+        {
+          "sector": "Construction Materials",
+          "value": 117542
+        },
+        {
+          "sector": "Consumer Durables",
+          "value": 168365
+        },
+        {
+          "sector": "Consumer Services",
+          "value": 269524
+        },
+        {
+          "sector": "Diversified",
+          "value": 3684
+        },
+        {
+          "sector": "Fast Moving Consumer Goods",
+          "value": 336124
+        },
+        {
+          "sector": "Financial Services",
+          "value": 2302818
+        },
+        {
+          "sector": "Forest Materials",
+          "value": 2298
+        },
+        {
+          "sector": "Healthcare",
+          "value": 439490
+        },
+        {
+          "sector": "Information Technology",
+          "value": 533953
+        },
+        {
+          "sector": "Media, Entertainment & Publication",
+          "value": 10222
+        },
+        {
+          "sector": "Metals & Mining",
+          "value": 271990
+        },
+        {
+          "sector": "Oil, Gas & Consumable Fuels",
+          "value": 524352
+        },
+        {
+          "sector": "Power",
+          "value": 220168
+        },
+        {
+          "sector": "Realty",
+          "value": 111076
+        },
+        {
+          "sector": "Services",
+          "value": 152277
+        },
+        {
+          "sector": "Telecommunication",
+          "value": 378716
+        },
+        {
+          "sector": "Textiles",
+          "value": 17391
+        },
+        {
+          "sector": "Utilities",
+          "value": 1667
+        },
+        {
+          "sector": "Sovereign",
+          "value": 0
+        },
+        {
+          "sector": "Others",
+          "value": 52830
+        },
+        {
+          "sector": "Grand Total",
+          "value": 7125346
+        }
+      ]
+    }
+  ]
+}
