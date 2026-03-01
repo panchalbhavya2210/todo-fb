@@ -3,7 +3,7 @@ const { XMLParser } = require("fast-xml-parser");
 const fs = require("fs");
 const path = require("path");
 const getShareholding = require("./getSh");
-
+const pushHolding = require("./pushHolding");
 const companies = require("../../data/companies.json");
 
 /* ---------- BUILD ISIN → SYMBOL MAP ---------- */
@@ -112,6 +112,8 @@ async function checkRSS() {
 
     saveJSON(holdingsPath, holdingsDB);
 
+    await pushHolding(symbol, quarter, holdings);
+
     seen.add(link);
 
     const report = {
@@ -127,7 +129,7 @@ async function checkRSS() {
 
     /* avoid NSE throttle */
 
-    await new Promise((r) => setTimeout(r, 1000));
+    await new Promise((r) => setTimeout(r, 1800));
   }
 
   saveJSON(seenPath, [...seen]);
