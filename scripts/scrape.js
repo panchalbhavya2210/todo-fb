@@ -1,49 +1,12 @@
-require("dotenv").config();
+const fs = require("fs");
 const axios = require("axios");
 const cheerio = require("cheerio");
-const crypto = require("crypto");
-const fs = require("fs");
-const path = require("path");
-
-// const supabase = require("../client/sb");
-const FILE_PATH = path.join(__dirname, "../data/cdsl-data.json");
+const XLSX = require("xlsx");
 
 const BASE_URL =
   "https://www.cdslindia.com/publications/FII/FortnightlySecWisePages/";
 
 const baseAUCName = "AUC as on date > IN INR Cr. > Equity > Equity";
-
-function toSqlDate(human) {
-  const [monthName, day, year] = human.replace(",", "").split(" ");
-
-  const monthMap = {
-    January: 1,
-    February: 2,
-    March: 3,
-    April: 4,
-    May: 5,
-    June: 6,
-    July: 7,
-    August: 8,
-    September: 9,
-    October: 10,
-    November: 11,
-    December: 12,
-  };
-
-  const m = String(monthMap[monthName]).padStart(2, "0");
-  const d = String(day).padStart(2, "0");
-
-  return `${year}-${m}-${d}`;
-}
-
-function normalizeSector(sector) {
-  return sector.trim().replace(/\s+/g, " ");
-}
-
-function hashRow(row) {
-  return crypto.createHash("sha256").update(JSON.stringify(row)).digest("hex");
-}
 
 function getAllCdslDates(startYear, endYear) {
   const dates = [];
@@ -278,6 +241,19 @@ function parseHumanDate(str) {
 
   console.log("Latest statement:", latestKey);
 
+  // helper to get historical statement
+  function getBackDate(indexBack) {
+    if (allDates.length - 1 - indexBack < 0) return null;
+
+    const d = allDates[allDates.length - 1 - indexBack];
+
+    return d.toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    });
+  }
+
   // clean number
   function toNumber(val) {
     if (!val) return null;
@@ -351,108 +327,56 @@ function parseHumanDate(str) {
 
     rollingRows.push(row);
   }
+  // const monthOrder = [...new Set(scraped.map((r) => r.month))]
+  //   .map(parseHumanDate)
+  //   .sort((a, b) => a - b)
+  //   .map((d) =>
+  //     d.toLocaleDateString("en-US", {
+  //       year: "numeric",
+  //       month: "long",
+  //       day: "numeric",
+  //     }),
+  //   );
 
-  if (rollingRows.length < 10) {
-    console.log("CDSL page likely not published or blocked. Aborting.");
-    process.exit(0);
-  }
-  const statementDate = toSqlDate(latestKey);
+  // const finalRows = [];
 
-  const dbRows = rollingRows.map((r) => {
-    const sector = normalizeSector(r.Sector);
-
-    const payload = {
-      statement_date: statementDate,
-      sector: sector,
-      d15: r["15D"] ?? null,
-      d30: r["30D"] ?? null,
-      d90: r["90D"] ?? null,
-      d180: r["180D"] ?? null,
-      d360: r["360D"] ?? null,
-    };
-
-    return {
-      ...payload,
-      data_hash: hashRow(payload),
-    };
-  });
-
-  // const { data: existing, error: fetchError } = await supabase
-  //   .from("cdsl_fii_sector_rolling")
-  //   .select("sector, data_hash")
-  //   .eq("statement_date", statementDate);
-
-  // if (fetchError) {
-  //   console.error("Fetch error:", fetchError);
-  //   process.exit(1);
-  // }
-
-  // const existingMap = new Map(
-  //   (existing || []).map((r) => [r.sector, r.data_hash]),
-  // );
-
-  // const rowsToUpsert = dbRows.filter((row) => {
-  //   const oldHash = existingMap.get(row.sector);
-  //   return oldHash !== row.data_hash;
+  // // header
+  // finalRows.push({
+  //   Sector: "Sector",
+  //   ...Object.fromEntries(monthOrder.map((m) => [m, m])),
   // });
 
-  // if (rowsToUpsert.length === 0) {
-  //   console.log("No change in CDSL data. Skipping DB update.");
-  //   return;
-  // }
+  // // rows
+  // for (const sector of Object.keys(pivot)) {
+  //   const row = { Sector: sector };
 
-  // const { error: upsertError } = await supabase
-  //   .from("cdsl_fii_sector_rolling")
-  //   .upsert(rowsToUpsert, {
-  //     onConflict: "statement_date,sector",
+  //   monthOrder.forEach((m) => {
+  //     row[m] = pivot[sector][m] || "";
   //   });
 
-  // if (upsertError) {
-  //   console.error("Upsert error:", upsertError);
-  //   process.exit(1);
+  //   finalRows.push(row);
   // }
+  // const workbook = XLSX.utils.book_new();
 
-  // console.log("Rows inserted/updated:", rowsToUpsert.length);
-  let existingData = [];
+  // /* Pivot Sheet */
+  // const sheet = XLSX.utils.json_to_sheet(finalRows);
+  // XLSX.utils.book_append_sheet(workbook, sheet, "Pivot");
 
-  if (fs.existsSync(FILE_PATH)) {
-    try {
-      const raw = fs.readFileSync(FILE_PATH, "utf-8");
-      const parsed = JSON.parse(raw);
+  // /* Rolling Change Sheet */
+  // const rollingSheet = XLSX.utils.json_to_sheet(rollingRows);
+  // XLSX.utils.book_append_sheet(workbook, rollingSheet, "RollingChange");
 
-      if (Array.isArray(parsed)) {
-        existingData = parsed;
-      } else if (parsed && Array.isArray(parsed.data)) {
-        existingData = parsed.data;
-      } else {
-        existingData = []; // fallback safety
-      }
-    } catch (err) {
-      console.log("Error reading existing JSON, starting fresh");
-      existingData = [];
-    }
-  }
-  // Convert existing into map for dedupe
-  const existingMap = new Map(
-    existingData.map((row) => [`${row.statement_date}-${row.sector}`, row]),
-  );
+  // XLSX.writeFile(workbook, "cdsl-pivot.xlsx");
+  const output = {
+    lastUpdated: new Date().toISOString(),
+    latestStatement: latestKey,
+    sectors: rollingRows,
+  };
 
-  // Merge new data
-  for (const row of dbRows) {
-    const key = `${row.statement_date}-${row.sector}`;
-    existingMap.set(key, row); // overwrite if exists
-  }
+  fs.mkdirSync("data", { recursive: true });
+  fs.writeFileSync("data/cdsl-data.json", JSON.stringify(output, null, 2));
 
-  // Convert back to array
-  const updatedData = Array.from(existingMap.values());
+  console.log("\nDONE: cdsl-data.json created");
 
-  // Optional: sort by date (latest first)
-  updatedData.sort(
-    (a, b) => new Date(b.statement_date) - new Date(a.statement_date),
-  );
-
-  // Write to file
-  fs.writeFileSync(FILE_PATH, JSON.stringify(updatedData, null, 2));
-
-  console.log("JSON file updated:", updatedData.length);
+  console.log("\nDONE: cdsl-pivot.xlsx created");
 })();
