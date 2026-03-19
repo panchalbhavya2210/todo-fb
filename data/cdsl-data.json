@@ -1,206 +1,252 @@
-{
-  "lastUpdated": "2026-02-26T18:05:41.165Z",
-  "latestStatement": "February 15, 2026",
-  "sectors": [
-    {
-      "Sector": "Automobile and Auto Components",
-      "15D": 30783,
-      "30D": 3643,
-      "90D": 3741,
-      "180D": 54966,
-      "360D": 95919
-    },
-    {
-      "Sector": "Capital Goods",
-      "15D": 23196,
-      "30D": 37462,
-      "90D": 21337,
-      "180D": 71284,
-      "360D": 143502
-    },
-    {
-      "Sector": "Chemicals",
-      "15D": 2170,
-      "30D": -2896,
-      "90D": -4781,
-      "180D": -7255,
-      "360D": 16612
-    },
-    {
-      "Sector": "Construction",
-      "15D": 8045,
-      "30D": 8213,
-      "90D": 1998,
-      "180D": 12444,
-      "360D": 21776
-    },
-    {
-      "Sector": "Construction Materials",
-      "15D": 2123,
-      "30D": 2754,
-      "90D": 2210,
-      "180D": -6450,
-      "360D": 7654
-    },
-    {
-      "Sector": "Consumer Durables",
-      "15D": 9370,
-      "30D": -6747,
-      "90D": -11256,
-      "180D": -8892,
-      "360D": -7748
-    },
-    {
-      "Sector": "Consumer Services",
-      "15D": 8537,
-      "30D": -12111,
-      "90D": -26051,
-      "180D": -50690,
-      "360D": 3824
-    },
-    {
-      "Sector": "Diversified",
-      "15D": -21,
-      "30D": -94,
-      "90D": -373,
-      "180D": -735,
-      "360D": -1824
-    },
-    {
-      "Sector": "Fast Moving Consumer Goods",
-      "15D": -1991,
-      "30D": -11373,
-      "90D": -44692,
-      "180D": -62102,
-      "360D": -32322
-    },
-    {
-      "Sector": "Financial Services",
-      "15D": 37751,
-      "30D": 88858,
-      "90D": -7961,
-      "180D": 100984,
-      "360D": 406890
-    },
-    {
-      "Sector": "Forest Materials",
-      "15D": 223,
-      "30D": -83,
-      "90D": -489,
-      "180D": -466,
-      "360D": -776
-    },
-    {
-      "Sector": "Healthcare",
-      "15D": 16619,
-      "30D": -10892,
-      "90D": -26168,
-      "180D": -38269,
-      "360D": 9450
-    },
-    {
-      "Sector": "Information Technology",
-      "15D": -85015,
-      "30D": -84630,
-      "90D": -67986,
-      "180D": -67269,
-      "360D": -229436
-    },
-    {
-      "Sector": "Media, Entertainment & Publication",
-      "15D": 806,
-      "30D": 453,
-      "90D": -615,
-      "180D": -1766,
-      "360D": 153
-    },
-    {
-      "Sector": "Metals & Mining",
-      "15D": 558,
-      "30D": 11249,
-      "90D": 39448,
-      "180D": 70394,
-      "360D": 91794
-    },
-    {
-      "Sector": "Oil, Gas & Consumable Fuels",
-      "15D": 10683,
-      "30D": -1669,
-      "90D": -17080,
-      "180D": 42214,
-      "360D": 90221
-    },
-    {
-      "Sector": "Power",
-      "15D": 16383,
-      "30D": 10529,
-      "90D": -1684,
-      "180D": 993,
-      "360D": 18771
-    },
-    {
-      "Sector": "Realty",
-      "15D": 6828,
-      "30D": -4684,
-      "90D": -20393,
-      "180D": -14925,
-      "360D": -15883
-    },
-    {
-      "Sector": "Services",
-      "15D": 7319,
-      "30D": 3869,
-      "90D": -19165,
-      "180D": -11048,
-      "360D": 33689
-    },
-    {
-      "Sector": "Telecommunication",
-      "15D": 8420,
-      "30D": -4613,
-      "90D": -13234,
-      "180D": 40202,
-      "360D": 96316
-    },
-    {
-      "Sector": "Textiles",
-      "15D": 1451,
-      "30D": 1107,
-      "90D": -2993,
-      "180D": -3694,
-      "360D": -3785
-    },
-    {
-      "Sector": "Utilities",
-      "15D": 209,
-      "30D": 136,
-      "90D": -272,
-      "180D": -556,
-      "360D": -846
-    },
-    {
-      "Sector": "Sovereign",
-      "15D": 0,
-      "30D": 0,
-      "90D": 0,
-      "180D": 0,
-      "360D": 0
-    },
-    {
-      "Sector": "Others",
-      "15D": 3856,
-      "30D": -34712,
-      "90D": 2363,
-      "180D": 5557,
-      "360D": 11855
-    },
-    {
-      "Sector": "Grand Total",
-      "15D": 108309,
-      "30D": -6228,
-      "90D": -194095,
-      "180D": 124923,
-      "360D": 755808
-    }
-  ]
-}
+[
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Automobile and Auto Components",
+    "d15": -78741,
+    "d30": -81667,
+    "d90": -80208,
+    "d180": -87309,
+    "d360": 48826,
+    "data_hash": "332328bfaa3bffd3657ecfa547c7df699a8623c8bfa5a9dd90a1533c6d8201a6"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Capital Goods",
+    "d15": -30211,
+    "d30": -11196,
+    "d90": 23334,
+    "d180": 37245,
+    "d360": 137384,
+    "data_hash": "2aff6825d6c2e8c6769564b0932790a3a2ab2eb97cbd14939bc28df095cf808a"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Chemicals",
+    "d15": -6535,
+    "d30": -11609,
+    "d90": -14604,
+    "d180": -20115,
+    "d360": 3425,
+    "data_hash": "4573348057d8a8ff899ec0c1efd524365ed27297f5abcc0a7d31f15538e09f2f"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Construction",
+    "d15": -28673,
+    "d30": -23295,
+    "d90": -22072,
+    "d180": -9709,
+    "d360": 3279,
+    "data_hash": "796b04bab7dc7089ce3e8643ca0a76ec20914af486530272dd4dc2a6a3c8e40b"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Construction Materials",
+    "d15": -17021,
+    "d30": -19718,
+    "d90": -15625,
+    "d180": -25801,
+    "d360": -2883,
+    "data_hash": "6651c9394429a9f46c0f4d8c58416e6fb371be8a08e405127567597132b796ce"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Consumer Durables",
+    "d15": -14308,
+    "d30": -14133,
+    "d90": -20283,
+    "d180": -29383,
+    "d360": -14643,
+    "data_hash": "82bcfbd4fed3f18937464162e1b60030b387d2f0a75084421496363843e4cdc5"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Consumer Services",
+    "d15": -22960,
+    "d30": -51379,
+    "d90": -71820,
+    "d180": -106739,
+    "d360": -32483,
+    "data_hash": "a73e19d457ee21f05579a088fb64cb016c58622ff2be1e0e0ac93c6876493ed6"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Diversified",
+    "d15": -429,
+    "d30": -352,
+    "d90": -568,
+    "d180": -1088,
+    "d360": -2496,
+    "data_hash": "ef90ac401de76c707abf52c2c5e6762f65f16251cd1e498bef9f186a0a9ba66a"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Fast Moving Consumer Goods",
+    "d15": -25277,
+    "d30": -25009,
+    "d90": -58893,
+    "d180": -89535,
+    "d360": -41037,
+    "data_hash": "e538a1a319f2cc28c88b4d00ad5a2d6f7820055908afd66d84433fa63690cc8d"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Financial Services",
+    "d15": -254764,
+    "d30": -268756,
+    "d90": -285549,
+    "d180": -169275,
+    "d360": 151424,
+    "data_hash": "2d902dcd31c64f7cb52f6b333eca9a409b74dd2263c0f96523508790544fc199"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Forest Materials",
+    "d15": -250,
+    "d30": -285,
+    "d90": -625,
+    "d180": -878,
+    "d360": -597,
+    "data_hash": "cfe22e20831f3ea2e9acd972257956cbef487c6adbf2aa14650ab6d9ef94532b"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Healthcare",
+    "d15": -15473,
+    "d30": 780,
+    "d90": -16582,
+    "d180": -36678,
+    "d360": 22016,
+    "data_hash": "8726a67f3901898f4f3b40e72ad1e3c1bf878986b761c0a4f2a648ade8f35bc5"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Information Technology",
+    "d15": -23663,
+    "d30": -54882,
+    "d90": -145670,
+    "d180": -130331,
+    "d360": -194470,
+    "data_hash": "33ac0e8754e4d461e69a848d419cb3a317650a36d96cf8449193d4ef77e1de6c"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Media, Entertainment & Publication",
+    "d15": -925,
+    "d30": -1361,
+    "d90": -1501,
+    "d180": -3079,
+    "d360": -1048,
+    "data_hash": "7a851c5d2cc58f63c2d71c34a027cea70a2b2cca846d1ed7917b3ee89e4363d6"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Metals & Mining",
+    "d15": -18496,
+    "d30": -7899,
+    "d90": 30389,
+    "d180": 48385,
+    "d360": 70562,
+    "data_hash": "f217a7962a5bdbe418738e8b03b27b1811beb10cc31c7ba3601081951e01bc9d"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Oil, Gas & Consumable Fuels",
+    "d15": -23845,
+    "d30": -22413,
+    "d90": -49221,
+    "d180": 14820,
+    "d360": 59257,
+    "data_hash": "9028b90dd5a27814cb3f74379ee07e7b71ac44494bd769eb3a347ee67b9b100d"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Power",
+    "d15": 14,
+    "d30": 8887,
+    "d90": 17509,
+    "d180": 9588,
+    "d360": 18046,
+    "data_hash": "a7e05a161465add02bca87fc374411423ec4f0dcbcb07f009df6a35f299ab6d3"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Realty",
+    "d15": -12319,
+    "d30": -18572,
+    "d90": -28943,
+    "d180": -34819,
+    "d360": -27914,
+    "data_hash": "292823b76f5d7d45da111e4b93351422daef3a4b8898b033b7a7ca252d2b0309"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Services",
+    "d15": -18238,
+    "d30": -17870,
+    "d90": -22992,
+    "d180": -32377,
+    "d360": 11704,
+    "data_hash": "5e0188814e0979167c5e1df7f2ad5973c82a93c5c03698262454076b58d82513"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Telecommunication",
+    "d15": -20400,
+    "d30": -44611,
+    "d90": -56445,
+    "d180": -9219,
+    "d360": 61048,
+    "data_hash": "056b5c80155b1b49e53015165aef4038c6ee6988bd3166af23a99c62cbcdbc7f"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Textiles",
+    "d15": -1302,
+    "d30": -2451,
+    "d90": -3584,
+    "d180": -6717,
+    "d360": -5407,
+    "data_hash": "c41500820967ff08a0ca33dca5acb05d3b39fc1caddac2e80547894cc91810f7"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Utilities",
+    "d15": -87,
+    "d30": -128,
+    "d90": -211,
+    "d180": -603,
+    "d360": -789,
+    "data_hash": "49a675c39b32459af5a710b314cf0873e41c82afbda18ece7d5bf1229fcf4d48"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Sovereign",
+    "d15": 0,
+    "d30": 0,
+    "d90": 0,
+    "d180": 0,
+    "d360": 0,
+    "data_hash": "ea32ac2cf39108d5f704cd2c39bf312de506e49b1bfff1e171a366f8dac1a23e"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Others",
+    "d15": -1508,
+    "d30": -3326,
+    "d90": -484,
+    "d180": 4741,
+    "d360": 13184,
+    "data_hash": "c7fc22640531c86d2cbc87c42782160a272198429c8a7865291116ba14d63469"
+  },
+  {
+    "statement_date": "2026-03-15",
+    "sector": "Grand Total",
+    "d15": -615410,
+    "d30": -671246,
+    "d90": -824647,
+    "d180": -678875,
+    "d360": 276387,
+    "data_hash": "396871b19adc699a41c7691d0061d13b14de1d1cefa1aa3c2c73f013a6be8fe5"
+  }
+]

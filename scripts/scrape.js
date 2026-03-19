@@ -5,7 +5,7 @@ const crypto = require("crypto");
 const fs = require("fs");
 const path = require("path");
 
-const supabase = require("../client/sb");
+// const supabase = require("../client/sb");
 const FILE_PATH = path.join(__dirname, "../data/cdsl-data.json");
 
 const BASE_URL =
@@ -415,42 +415,44 @@ function parseHumanDate(str) {
   // console.log("Rows inserted/updated:", rowsToUpsert.length);
   let existingData = [];
 
-if (fs.existsSync(FILE_PATH)) {
-  try {
-    const raw = fs.readFileSync(FILE_PATH, "utf-8");
-    const parsed = JSON.parse(raw);
+  if (fs.existsSync(FILE_PATH)) {
+    try {
+      const raw = fs.readFileSync(FILE_PATH, "utf-8");
+      const parsed = JSON.parse(raw);
 
-    // ✅ Ensure it's always an array
-    existingData = Array.isArray(parsed)
-      ? parsed
-      : parsed.data || [];
-      
-  } catch (err) {
-    console.log("Error reading existing JSON, starting fresh");
+      if (Array.isArray(parsed)) {
+        existingData = parsed;
+      } else if (parsed && Array.isArray(parsed.data)) {
+        existingData = parsed.data;
+      } else {
+        existingData = []; // fallback safety
+      }
+    } catch (err) {
+      console.log("Error reading existing JSON, starting fresh");
+      existingData = [];
+    }
   }
-}
+  // Convert existing into map for dedupe
+  const existingMap = new Map(
+    existingData.map((row) => [`${row.statement_date}-${row.sector}`, row]),
+  );
 
-// Convert existing into map for dedupe
-const existingMap = new Map(
-  existingData.map((row) => [`${row.statement_date}-${row.sector}`, row])
-);
+  // Merge new data
+  for (const row of dbRows) {
+    const key = `${row.statement_date}-${row.sector}`;
+    existingMap.set(key, row); // overwrite if exists
+  }
 
-// Merge new data
-for (const row of dbRows) {
-  const key = `${row.statement_date}-${row.sector}`;
-  existingMap.set(key, row); // overwrite if exists
-}
+  // Convert back to array
+  const updatedData = Array.from(existingMap.values());
 
-// Convert back to array
-const updatedData = Array.from(existingMap.values());
+  // Optional: sort by date (latest first)
+  updatedData.sort(
+    (a, b) => new Date(b.statement_date) - new Date(a.statement_date),
+  );
 
-// Optional: sort by date (latest first)
-updatedData.sort((a, b) =>
-  new Date(b.statement_date) - new Date(a.statement_date)
-);
+  // Write to file
+  fs.writeFileSync(FILE_PATH, JSON.stringify(updatedData, null, 2));
 
-// Write to file
-fs.writeFileSync(FILE_PATH, JSON.stringify(updatedData, null, 2));
-
-console.log("JSON file updated:", updatedData.length);
+  console.log("JSON file updated:", updatedData.length);
 })();
