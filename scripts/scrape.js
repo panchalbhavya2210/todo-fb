@@ -2,8 +2,11 @@ require("dotenv").config();
 const axios = require("axios");
 const cheerio = require("cheerio");
 const crypto = require("crypto");
+const fs = require("fs");
+const path = require("path");
 
 const supabase = require("../client/sb");
+const FILE_PATH = path.join(__dirname, "../data/cdsl-data.json");
 
 const BASE_URL =
   "https://www.cdslindia.com/publications/FII/FortnightlySecWisePages/";
@@ -374,40 +377,74 @@ function parseHumanDate(str) {
     };
   });
 
-  const { data: existing, error: fetchError } = await supabase
-    .from("cdsl_fii_sector_rolling")
-    .select("sector, data_hash")
-    .eq("statement_date", statementDate);
+  // const { data: existing, error: fetchError } = await supabase
+  //   .from("cdsl_fii_sector_rolling")
+  //   .select("sector, data_hash")
+  //   .eq("statement_date", statementDate);
 
-  if (fetchError) {
-    console.error("Fetch error:", fetchError);
-    process.exit(1);
+  // if (fetchError) {
+  //   console.error("Fetch error:", fetchError);
+  //   process.exit(1);
+  // }
+
+  // const existingMap = new Map(
+  //   (existing || []).map((r) => [r.sector, r.data_hash]),
+  // );
+
+  // const rowsToUpsert = dbRows.filter((row) => {
+  //   const oldHash = existingMap.get(row.sector);
+  //   return oldHash !== row.data_hash;
+  // });
+
+  // if (rowsToUpsert.length === 0) {
+  //   console.log("No change in CDSL data. Skipping DB update.");
+  //   return;
+  // }
+
+  // const { error: upsertError } = await supabase
+  //   .from("cdsl_fii_sector_rolling")
+  //   .upsert(rowsToUpsert, {
+  //     onConflict: "statement_date,sector",
+  //   });
+
+  // if (upsertError) {
+  //   console.error("Upsert error:", upsertError);
+  //   process.exit(1);
+  // }
+
+  // console.log("Rows inserted/updated:", rowsToUpsert.length);
+  let existingData = [];
+
+if (fs.existsSync(FILE_PATH)) {
+  try {
+    const raw = fs.readFileSync(FILE_PATH, "utf-8");
+    existingData = JSON.parse(raw);
+  } catch (err) {
+    console.log("Error reading existing JSON, starting fresh");
   }
+}
 
-  const existingMap = new Map(
-    (existing || []).map((r) => [r.sector, r.data_hash]),
-  );
+// Convert existing into map for dedupe
+const existingMap = new Map(
+  existingData.map((row) => [`${row.statement_date}-${row.sector}`, row])
+);
 
-  const rowsToUpsert = dbRows.filter((row) => {
-    const oldHash = existingMap.get(row.sector);
-    return oldHash !== row.data_hash;
-  });
+// Merge new data
+for (const row of dbRows) {
+  const key = `${row.statement_date}-${row.sector}`;
+  existingMap.set(key, row); // overwrite if exists
+}
 
-  if (rowsToUpsert.length === 0) {
-    console.log("No change in CDSL data. Skipping DB update.");
-    return;
-  }
+// Convert back to array
+const updatedData = Array.from(existingMap.values());
 
-  const { error: upsertError } = await supabase
-    .from("cdsl_fii_sector_rolling")
-    .upsert(rowsToUpsert, {
-      onConflict: "statement_date,sector",
-    });
+// Optional: sort by date (latest first)
+updatedData.sort((a, b) =>
+  new Date(b.statement_date) - new Date(a.statement_date)
+);
 
-  if (upsertError) {
-    console.error("Upsert error:", upsertError);
-    process.exit(1);
-  }
+// Write to file
+fs.writeFileSync(FILE_PATH, JSON.stringify(updatedData, null, 2));
 
-  console.log("Rows inserted/updated:", rowsToUpsert.length);
+console.log("JSON file updated:", updatedData.length);
 })();
