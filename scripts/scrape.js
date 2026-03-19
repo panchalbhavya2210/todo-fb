@@ -418,7 +418,13 @@ function parseHumanDate(str) {
 if (fs.existsSync(FILE_PATH)) {
   try {
     const raw = fs.readFileSync(FILE_PATH, "utf-8");
-    existingData = JSON.parse(raw);
+    const parsed = JSON.parse(raw);
+
+    // ✅ Ensure it's always an array
+    existingData = Array.isArray(parsed)
+      ? parsed
+      : parsed.data || [];
+      
   } catch (err) {
     console.log("Error reading existing JSON, starting fresh");
   }
