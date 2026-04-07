@@ -58,7 +58,10 @@ function generateCandidateUrls(date) {
 
 function formScrapeJobs() {
   const today = new Date();
-  const dates = getAllCdslDates(2025, new Date().getFullYear());
+  const dates = getAllCdslDates(
+    new Date().getFullYear() - 1,
+    new Date().getFullYear(),
+  );
 
   const jobs = [];
 
