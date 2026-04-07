@@ -166,9 +166,6 @@ async function extractOnePage(job) {
       headerPaths[c] = path.join(" > ");
     }
 
-    console.log("HEADER PATHS:", headerPaths);
-    console.log("TARGET:", job.aucName);
-
     const targetIndex = headerPaths.indexOf(job.aucName);
     const sectorIndex = headerPaths.indexOf("Sectors");
 
@@ -327,7 +324,6 @@ function parseHumanDate(str) {
       // X - historical
       row[label] = +(latestVal - oldVal).toFixed(2);
     }
-    console.log(row)
 
     rollingRows.push(row);
   }
@@ -379,6 +375,8 @@ function parseHumanDate(str) {
 
   fs.mkdirSync("data", { recursive: true });
   fs.writeFileSync("data/cdsl-data.json", JSON.stringify(output, null, 2));
+
+  console.log("Writing to:", require("path").resolve("data/cdsl-data.json"));
 
   console.log("\nDONE: cdsl-data.json created");
 
