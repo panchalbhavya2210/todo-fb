@@ -166,6 +166,9 @@ async function extractOnePage(job) {
       headerPaths[c] = path.join(" > ");
     }
 
+    console.log("HEADER PATHS:", headerPaths);
+    console.log("TARGET:", job.aucName);
+
     const targetIndex = headerPaths.indexOf(job.aucName);
     const sectorIndex = headerPaths.indexOf("Sectors");
 
@@ -324,6 +327,7 @@ function parseHumanDate(str) {
       // X - historical
       row[label] = +(latestVal - oldVal).toFixed(2);
     }
+    console.log(row)
 
     rollingRows.push(row);
   }
