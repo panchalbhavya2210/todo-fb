@@ -2194,6 +2194,23 @@
       "others": 0,
       "individual": 22.56,
       "institutional": 3.59
+    },
+    "2026-03-31": {
+      "promoter": 65.47,
+      "fii": 1.49,
+      "mutualFund": 2.12,
+      "insurance": 0.21,
+      "banks": 0,
+      "retail": 18.16,
+      "hni": 4.18,
+      "nri": 1.06,
+      "corporate": 4.05,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 22.34,
+      "institutional": 3.82
     }
   },
   "AERONEU": {
@@ -65610,6 +65627,23 @@
       "others": 0,
       "individual": 17.99,
       "institutional": 6.07
+    },
+    "2026-03-31": {
+      "promoter": 35.99,
+      "fii": 0.49,
+      "mutualFund": 4.5,
+      "insurance": 0,
+      "banks": 1.26,
+      "retail": 11.71,
+      "hni": 7.32,
+      "nri": 0.62,
+      "corporate": 34.44,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 19.03,
+      "institutional": 6.25
     }
   },
   "SINCLAIR": {
@@ -68993,6 +69027,23 @@
       "nbfc": 0,
       "others": 0,
       "individual": 29.25,
+      "institutional": 0
+    },
+    "2026-03-31": {
+      "promoter": 63.94,
+      "fii": 0,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 27.61,
+      "hni": 1.58,
+      "nri": 1.02,
+      "corporate": 3.11,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 29.19,
       "institutional": 0
     }
   },
@@ -78350,6 +78401,23 @@
       "others": 0,
       "individual": 9.9,
       "institutional": 27.59
+    },
+    "2026-03-31": {
+      "promoter": 60.24,
+      "fii": 2.98,
+      "mutualFund": 24.34,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 8.93,
+      "hni": 1.07,
+      "nri": 0.68,
+      "corporate": 0.75,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 10,
+      "institutional": 27.32
     }
   },
   "VSSL": {
