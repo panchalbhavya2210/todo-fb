@@ -30895,6 +30895,23 @@
       "others": 0,
       "individual": 33.11,
       "institutional": 0.69
+    },
+    "2026-03-31": {
+      "promoter": 64.02,
+      "fii": 0,
+      "mutualFund": 0.07,
+      "insurance": 0,
+      "banks": 0.52,
+      "retail": 29.46,
+      "hni": 3.77,
+      "nri": 0.2,
+      "corporate": 1.11,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 33.23,
+      "institutional": 0.59
     }
   },
   "HYUNDAI": {
@@ -41547,6 +41564,23 @@
       "others": 0,
       "individual": 27.15,
       "institutional": 15.24
+    },
+    "2026-03-31": {
+      "promoter": 30.8,
+      "fii": 5.54,
+      "mutualFund": 2.66,
+      "insurance": 6.82,
+      "banks": 0,
+      "retail": 15.07,
+      "hni": 11.97,
+      "nri": 1.67,
+      "corporate": 15.6,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 27.04,
+      "institutional": 15.02
     }
   },
   "LODHA": {
@@ -44912,6 +44946,23 @@
       "others": 0,
       "individual": 12.39,
       "institutional": 2.39
+    },
+    "2026-03-31": {
+      "promoter": 74.79,
+      "fii": 2.2,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 13.66,
+      "hni": 1.27,
+      "nri": 0.33,
+      "corporate": 1.94,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 14.93,
+      "institutional": 2.2
     }
   },
   "MENONBE": {
@@ -47792,6 +47843,23 @@
       "others": 0,
       "individual": 25.84,
       "institutional": 19.6
+    },
+    "2026-03-31": {
+      "promoter": 49.41,
+      "fii": 17.37,
+      "mutualFund": 1.72,
+      "insurance": 3.27,
+      "banks": 0.03,
+      "retail": 20.13,
+      "hni": 3.2,
+      "nri": 1.69,
+      "corporate": 1.37,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 23.33,
+      "institutional": 22.39
     }
   },
   "NATHBIOGEN": {
@@ -58124,6 +58192,23 @@
       "others": 0,
       "individual": 10.2,
       "institutional": 14.6
+    },
+    "2026-03-31": {
+      "promoter": 71.83,
+      "fii": 3.81,
+      "mutualFund": 11,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 7.97,
+      "hni": 1.85,
+      "nri": 0.44,
+      "corporate": 1.53,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 9.82,
+      "institutional": 14.81
     }
   },
   "REFEX": {
@@ -68668,6 +68753,23 @@
       "others": 0,
       "individual": 7.52,
       "institutional": 6.18
+    },
+    "2026-03-31": {
+      "promoter": 76.15,
+      "fii": 1.55,
+      "mutualFund": 6.19,
+      "insurance": 1.16,
+      "banks": 0,
+      "retail": 1.78,
+      "hni": 1.33,
+      "nri": 0.02,
+      "corporate": 0.2,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 3.11,
+      "institutional": 8.9
     }
   },
   "SUKHJITS": {
