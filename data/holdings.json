@@ -24919,6 +24919,23 @@
       "others": 0,
       "individual": 22.91,
       "institutional": 1.62
+    },
+    "2026-03-31": {
+      "promoter": 68.72,
+      "fii": 0.16,
+      "mutualFund": 0.06,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 15.8,
+      "hni": 8.35,
+      "nri": 0.64,
+      "corporate": 3.68,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 24.15,
+      "institutional": 0.22
     }
   },
   "GFSTEELS": {
@@ -30679,6 +30696,23 @@
       "others": 0,
       "individual": 23.36,
       "institutional": 0.34
+    },
+    "2026-03-31": {
+      "promoter": 72.66,
+      "fii": 0.51,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 21.62,
+      "hni": 1.62,
+      "nri": 1.21,
+      "corporate": 1.35,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 23.24,
+      "institutional": 0.51
     }
   },
   "HSCL": {
@@ -37248,6 +37282,23 @@
       "others": 0,
       "individual": 7.12,
       "institutional": 27.89
+    },
+    "2026-03-31": {
+      "promoter": 62.86,
+      "fii": 14.55,
+      "mutualFund": 13.63,
+      "insurance": 0.11,
+      "banks": 0,
+      "retail": 6.33,
+      "hni": 0.75,
+      "nri": 0.29,
+      "corporate": 0.92,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 7.08,
+      "institutional": 28.29
     }
   },
   "KAMATHOTEL": {
@@ -42589,6 +42640,23 @@
       "others": 0,
       "individual": 7.33,
       "institutional": 17.3
+    },
+    "2026-03-31": {
+      "promoter": 73.6,
+      "fii": 5.55,
+      "mutualFund": 6.27,
+      "insurance": 7.41,
+      "banks": 0.08,
+      "retail": 4.21,
+      "hni": 1.64,
+      "nri": 0.25,
+      "corporate": 0.44,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 5.85,
+      "institutional": 19.31
     }
   },
   "MAHAPEXLTD": {
@@ -48760,6 +48828,23 @@
       "others": 0,
       "individual": 16.72,
       "institutional": 8.44
+    },
+    "2026-03-31": {
+      "promoter": 68.54,
+      "fii": 4.63,
+      "mutualFund": 2.86,
+      "insurance": 0.67,
+      "banks": 0,
+      "retail": 15.82,
+      "hni": 1.14,
+      "nri": 1.14,
+      "corporate": 2.04,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 16.96,
+      "institutional": 8.16
     }
   },
   "NESTLEIND": {
@@ -73052,6 +73137,23 @@
       "others": 0,
       "individual": 37.31,
       "institutional": 0.02
+    },
+    "2026-03-31": {
+      "promoter": 49.01,
+      "fii": 0.78,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 25.1,
+      "hni": 11.49,
+      "nri": 4.06,
+      "corporate": 2.37,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 36.59,
+      "institutional": 0.78
     }
   },
   "TITAGARH": {
@@ -80750,6 +80852,23 @@
       "others": 0,
       "individual": 26.66,
       "institutional": 2.94
+    },
+    "2026-03-31": {
+      "promoter": 65.2,
+      "fii": 2.83,
+      "mutualFund": 0,
+      "insurance": 0.08,
+      "banks": 0.01,
+      "retail": 20.78,
+      "hni": 6.05,
+      "nri": 0.72,
+      "corporate": 2.02,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 26.83,
+      "institutional": 2.92
     }
   },
   "ZUARIIND": {
