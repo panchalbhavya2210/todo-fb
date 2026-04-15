@@ -8649,6 +8649,23 @@
       "others": 0,
       "individual": 57.19,
       "institutional": 9.73
+    },
+    "2026-03-31": {
+      "promoter": 13.43,
+      "fii": 1.14,
+      "mutualFund": 0,
+      "insurance": 1.82,
+      "banks": 48.59,
+      "retail": 26.6,
+      "hni": 4.13,
+      "nri": 1.11,
+      "corporate": 1.31,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 30.73,
+      "institutional": 51.55
     }
   },
   "BAJAJHLDNG": {
@@ -14930,6 +14947,23 @@
       "others": 0,
       "individual": 28.87,
       "institutional": 7.99
+    },
+    "2026-03-31": {
+      "promoter": 51.78,
+      "fii": 7.89,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 13.3,
+      "hni": 16.38,
+      "nri": 1,
+      "corporate": 2.52,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 29.68,
+      "institutional": 7.89
     }
   },
   "CLSEL": {
@@ -18907,6 +18941,23 @@
       "others": 0,
       "individual": 6.78,
       "institutional": 38.55
+    },
+    "2026-03-31": {
+      "promoter": 51.88,
+      "fii": 20.29,
+      "mutualFund": 13.42,
+      "insurance": 4.74,
+      "banks": 0.08,
+      "retail": 5.99,
+      "hni": 0.48,
+      "nri": 0.45,
+      "corporate": 1.19,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 6.47,
+      "institutional": 38.53
     }
   },
   "DIXON": {
@@ -21228,6 +21279,23 @@
       "others": 0,
       "individual": 9.83,
       "institutional": 11.79
+    },
+    "2026-03-31": {
+      "promoter": 54.39,
+      "fii": 3.13,
+      "mutualFund": 7.3,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 10.38,
+      "hni": 2.52,
+      "nri": 1.56,
+      "corporate": 1.43,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 12.9,
+      "institutional": 10.43
     }
   },
   "ENDURANCE": {
@@ -58862,6 +58930,23 @@
       "others": 0,
       "individual": 21.56,
       "institutional": 13.6
+    },
+    "2026-03-31": {
+      "promoter": 62.48,
+      "fii": 3.53,
+      "mutualFund": 0.11,
+      "insurance": 0.89,
+      "banks": 9.09,
+      "retail": 19.64,
+      "hni": 1.55,
+      "nri": 0.45,
+      "corporate": 1.16,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 21.19,
+      "institutional": 13.62
     }
   },
   "REPCOHOME": {
@@ -75177,6 +75262,23 @@
       "others": 0,
       "individual": 45.14,
       "institutional": 0.66
+    },
+    "2026-03-31": {
+      "promoter": 22.33,
+      "fii": 0.84,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 30.22,
+      "hni": 14.83,
+      "nri": 0.63,
+      "corporate": 3.16,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 45.05,
+      "institutional": 0.84
     }
   },
   "UGARSUGAR": {
