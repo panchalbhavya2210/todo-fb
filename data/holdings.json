@@ -7336,6 +7336,23 @@
       "others": 0,
       "individual": 17.23,
       "institutional": 32.61
+    },
+    "2026-03-31": {
+      "promoter": 45.22,
+      "fii": 7.5,
+      "mutualFund": 13.94,
+      "insurance": 11.34,
+      "banks": 0.05,
+      "retail": 11.37,
+      "hni": 5.18,
+      "nri": 0.59,
+      "corporate": 1.95,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 16.55,
+      "institutional": 32.83
     }
   },
   "ATULAUTO": {
@@ -7372,6 +7389,23 @@
       "others": 0,
       "individual": 29.92,
       "institutional": 0.38
+    },
+    "2026-03-31": {
+      "promoter": 42.7,
+      "fii": 0.84,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 26.24,
+      "hni": 3.54,
+      "nri": 3.24,
+      "corporate": 3.93,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 29.78,
+      "institutional": 0.84
     }
   },
   "AUBANK": {
@@ -12118,6 +12152,23 @@
       "others": 0,
       "individual": 26.72,
       "institutional": 4.67
+    },
+    "2026-03-31": {
+      "promoter": 58.77,
+      "fii": 4.27,
+      "mutualFund": 0.12,
+      "insurance": 0,
+      "banks": 0.01,
+      "retail": 25.18,
+      "hni": 1.98,
+      "nri": 1,
+      "corporate": 2.7,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 27.16,
+      "institutional": 4.4
     }
   },
   "BOROSCI": {
@@ -12585,6 +12636,23 @@
       "nbfc": 0,
       "others": 0,
       "individual": 25.83,
+      "institutional": 1.36
+    },
+    "2026-03-31": {
+      "promoter": 56.72,
+      "fii": 0,
+      "mutualFund": 0,
+      "insurance": 1.05,
+      "banks": 0.31,
+      "retail": 16.63,
+      "hni": 7.49,
+      "nri": 0.66,
+      "corporate": 11.36,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 24.12,
       "institutional": 1.36
     }
   },
@@ -13685,6 +13753,23 @@
       "others": 0,
       "individual": 7.92,
       "institutional": 8.12
+    },
+    "2026-03-31": {
+      "promoter": 82.06,
+      "fii": 3.14,
+      "mutualFund": 1.58,
+      "insurance": 3.76,
+      "banks": 0,
+      "retail": 6.57,
+      "hni": 0.55,
+      "nri": 0.12,
+      "corporate": 1.8,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 7.12,
+      "institutional": 8.48
     }
   },
   "CELEBRITY": {
@@ -14657,6 +14742,23 @@
       "others": 0,
       "individual": 9.75,
       "institutional": 38.84
+    },
+    "2026-03-31": {
+      "promoter": 46.38,
+      "fii": 13.8,
+      "mutualFund": 23.62,
+      "insurance": 1.25,
+      "banks": 0.01,
+      "retail": 7.88,
+      "hni": 1.87,
+      "nri": 0.79,
+      "corporate": 2,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 9.75,
+      "institutional": 38.68
     }
   },
   "CIEINDIA": {
@@ -17787,6 +17889,23 @@
       "others": 0,
       "individual": 11.23,
       "institutional": 16.67
+    },
+    "2026-03-31": {
+      "promoter": 70.18,
+      "fii": 0.98,
+      "mutualFund": 12.95,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 11.46,
+      "hni": 2.22,
+      "nri": 0.3,
+      "corporate": 0.42,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 13.68,
+      "institutional": 13.93
     }
   },
   "DEEPAKFERT": {
@@ -36671,6 +36790,23 @@
       "others": 0,
       "individual": 17.31,
       "institutional": 6.59
+    },
+    "2026-03-31": {
+      "promoter": 63.62,
+      "fii": 6.17,
+      "mutualFund": 0.11,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 12.36,
+      "hni": 6.02,
+      "nri": 1.07,
+      "corporate": 8.66,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 18.38,
+      "institutional": 6.28
     }
   },
   "JSWCEMENT": {
@@ -37247,6 +37383,23 @@
       "others": 0,
       "individual": 13.1,
       "institutional": 22.82
+    },
+    "2026-03-31": {
+      "promoter": 62.55,
+      "fii": 8.94,
+      "mutualFund": 11.84,
+      "insurance": 1.83,
+      "banks": 0,
+      "retail": 3.75,
+      "hni": 9.4,
+      "nri": 0.82,
+      "corporate": 0.39,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 13.15,
+      "institutional": 22.61
     }
   },
   "JYOTISTRUC": {
@@ -42981,6 +43134,23 @@
       "nbfc": 0,
       "others": 0,
       "individual": 33.09,
+      "institutional": 0.01
+    },
+    "2026-03-31": {
+      "promoter": 62.54,
+      "fii": 0,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0.01,
+      "retail": 26.67,
+      "hni": 6.18,
+      "nri": 0.19,
+      "corporate": 1.17,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 32.85,
       "institutional": 0.01
     }
   },
@@ -51275,6 +51445,23 @@
       "others": 0,
       "individual": 36.53,
       "institutional": 7.42
+    },
+    "2026-03-31": {
+      "promoter": 50.02,
+      "fii": 7.11,
+      "mutualFund": 0.33,
+      "insurance": 0.03,
+      "banks": 0.04,
+      "retail": 33.95,
+      "hni": 2.94,
+      "nri": 0.9,
+      "corporate": 4.12,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 36.89,
+      "institutional": 7.51
     }
   },
   "OMAXAUTO": {
@@ -65284,6 +65471,23 @@
       "others": 0,
       "individual": 4.82,
       "institutional": 1.31
+    },
+    "2026-03-31": {
+      "promoter": 90,
+      "fii": 0.22,
+      "mutualFund": 0.91,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 2.22,
+      "hni": 2.46,
+      "nri": 0.05,
+      "corporate": 2.39,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 4.68,
+      "institutional": 1.13
     }
   },
   "SHREEPUSHK": {
@@ -71059,6 +71263,23 @@
       "others": 0,
       "individual": 30.02,
       "institutional": 22.15
+    },
+    "2026-03-31": {
+      "promoter": 42.28,
+      "fii": 6.61,
+      "mutualFund": 9.74,
+      "insurance": 5.71,
+      "banks": 0,
+      "retail": 10.85,
+      "hni": 20.09,
+      "nri": 0.87,
+      "corporate": 1.61,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 30.94,
+      "institutional": 22.06
     }
   },
   "SYSTMTXC": {
@@ -76004,6 +76225,23 @@
       "others": 0,
       "individual": 5.17,
       "institutional": 19.34
+    },
+    "2026-03-31": {
+      "promoter": 74.76,
+      "fii": 9.37,
+      "mutualFund": 4.03,
+      "insurance": 7.02,
+      "banks": 0.07,
+      "retail": 3.23,
+      "hni": 0.66,
+      "nri": 0.12,
+      "corporate": 0.17,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 3.89,
+      "institutional": 20.49
     }
   },
   "UNIPARTS": {
@@ -77300,6 +77538,23 @@
       "others": 0,
       "individual": 11.83,
       "institutional": 26.45
+    },
+    "2026-03-31": {
+      "promoter": 56.38,
+      "fii": 13.93,
+      "mutualFund": 6.9,
+      "insurance": 5.72,
+      "banks": 0,
+      "retail": 11.16,
+      "hni": 0.46,
+      "nri": 0.47,
+      "corporate": 3.21,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 11.62,
+      "institutional": 26.55
     }
   },
   "VEEDOL": {
@@ -81237,6 +81492,23 @@
       "others": 0,
       "individual": 24.41,
       "institutional": 0.54
+    },
+    "2026-03-31": {
+      "promoter": 69.97,
+      "fii": 0.15,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 22.02,
+      "hni": 2.37,
+      "nri": 0.83,
+      "corporate": 0.29,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 24.39,
+      "institutional": 0.15
     }
   },
   "ZODIACLOTH": {
@@ -81508,6 +81780,25 @@
       "others": 0,
       "individual": 4.06,
       "institutional": 25.51
+    }
+  },
+  "BHARATCOAL": {
+    "2026-03-31": {
+      "promoter": 90,
+      "fii": 0.17,
+      "mutualFund": 1.3,
+      "insurance": 0.73,
+      "banks": 0,
+      "retail": 6.09,
+      "hni": 1.11,
+      "nri": 0.1,
+      "corporate": 0.2,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 7.2,
+      "institutional": 2.2
     }
   }
 }
