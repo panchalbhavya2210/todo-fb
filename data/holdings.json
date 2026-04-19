@@ -45645,6 +45645,23 @@
       "others": 0,
       "individual": 24.92,
       "institutional": 0.41
+    },
+    "2026-03-31": {
+      "promoter": 68.44,
+      "fii": 0.21,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 24.01,
+      "hni": 0.86,
+      "nri": 1.31,
+      "corporate": 1.3,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 24.87,
+      "institutional": 0.21
     }
   },
   "MEP": {
@@ -47265,6 +47282,23 @@
       "others": 0,
       "individual": 3.04,
       "institutional": 55.06
+    },
+    "2026-03-31": {
+      "promoter": 30.55,
+      "fii": 19.5,
+      "mutualFund": 30.95,
+      "insurance": 14.19,
+      "banks": 0,
+      "retail": 2.62,
+      "hni": 0.29,
+      "nri": 0.71,
+      "corporate": 0.16,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 2.91,
+      "institutional": 64.64
     }
   },
   "MPSLTD": {
@@ -57051,6 +57085,23 @@
       "others": 0,
       "individual": 27.83,
       "institutional": 0.25
+    },
+    "2026-03-31": {
+      "promoter": 61.3,
+      "fii": 0.5,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 9.67,
+      "hni": 17.18,
+      "nri": 4.46,
+      "corporate": 5.13,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 26.85,
+      "institutional": 0.5
     }
   },
   "PVRINOX": {
@@ -75751,6 +75802,23 @@
       "others": 0,
       "individual": 24.54,
       "institutional": 23.65
+    },
+    "2026-03-31": {
+      "promoter": 34.59,
+      "fii": 9.67,
+      "mutualFund": 10.94,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 14.99,
+      "hni": 9.4,
+      "nri": 0.9,
+      "corporate": 11.42,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 24.39,
+      "institutional": 20.61
     }
   },
   "UFLEX": {
