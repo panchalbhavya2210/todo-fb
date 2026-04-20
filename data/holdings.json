@@ -13626,6 +13626,23 @@
       "others": 0,
       "individual": 23.84,
       "institutional": 0.49
+    },
+    "2026-03-31": {
+      "promoter": 73.8,
+      "fii": 0.49,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 14.92,
+      "hni": 8.93,
+      "nri": 0.37,
+      "corporate": 0.82,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 23.85,
+      "institutional": 0.49
     }
   },
   "CCL": {
@@ -26712,6 +26729,23 @@
       "others": 0,
       "individual": 4.83,
       "institutional": 29.21
+    },
+    "2026-03-31": {
+      "promoter": 53.05,
+      "fii": 13.94,
+      "mutualFund": 9.73,
+      "insurance": 5.26,
+      "banks": 0,
+      "retail": 3.55,
+      "hni": 1.2,
+      "nri": 0.52,
+      "corporate": 7.67,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 4.75,
+      "institutional": 28.93
     }
   },
   "GODREJIND": {
