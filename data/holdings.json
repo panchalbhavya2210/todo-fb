@@ -9956,6 +9956,23 @@
       "others": 0,
       "individual": 68.49,
       "institutional": 1.59
+    },
+    "2026-03-31": {
+      "promoter": 18.38,
+      "fii": 1.31,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 42.45,
+      "hni": 25.86,
+      "nri": 7.28,
+      "corporate": 4.71,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 68.31,
+      "institutional": 1.31
     }
   },
   "BCLIND": {
@@ -14450,6 +14467,23 @@
       "others": 0,
       "individual": 12.86,
       "institutional": 22.26
+    },
+    "2026-03-31": {
+      "promoter": 61.25,
+      "fii": 15.11,
+      "mutualFund": 4.74,
+      "insurance": 0.47,
+      "banks": 0.02,
+      "retail": 11.65,
+      "hni": 2.03,
+      "nri": 0.81,
+      "corporate": 1.01,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 13.68,
+      "institutional": 20.34
     }
   },
   "CHEMBOND": {
@@ -46783,6 +46817,23 @@
       "others": 0,
       "individual": 9.3,
       "institutional": 2.01
+    },
+    "2026-03-31": {
+      "promoter": 62.69,
+      "fii": 2.01,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 7.54,
+      "hni": 1.88,
+      "nri": 0.12,
+      "corporate": 2.7,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 9.42,
+      "institutional": 2.01
     }
   },
   "MODIS": {
@@ -57897,6 +57948,23 @@
       "others": 0,
       "individual": 11.74,
       "institutional": 41.54
+    },
+    "2026-03-31": {
+      "promoter": 40.2,
+      "fii": 17.63,
+      "mutualFund": 21.33,
+      "insurance": 4,
+      "banks": 0,
+      "retail": 8.69,
+      "hni": 2.15,
+      "nri": 0.61,
+      "corporate": 1.6,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 10.84,
+      "institutional": 42.96
     }
   },
   "RADIOCITY": {
