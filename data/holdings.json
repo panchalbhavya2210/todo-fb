@@ -50934,6 +50934,23 @@
       "others": 0,
       "individual": 54.47,
       "institutional": 0.63
+    },
+    "2026-03-31": {
+      "promoter": 26.37,
+      "fii": 0,
+      "mutualFund": 0,
+      "insurance": 0.6,
+      "banks": 0,
+      "retail": 17.69,
+      "hni": 36.99,
+      "nri": 1.33,
+      "corporate": 8.29,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 54.68,
+      "institutional": 0.6
     }
   },
   "NORBTEAEXP": {
