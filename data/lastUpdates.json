@@ -1,8 +1,18 @@
 {
-  "time": "2026-05-06T06:17:48.998Z",
-  "new": [],
-  "revised": [
-    "BVCL"
+  "time": "2026-05-12T06:26:10.413Z",
+  "new": [
+    "AYMSYNTEX",
+    "SKYGOLD",
+    "VRAJ",
+    "SHADOWFAX",
+    "STEL",
+    "LENSKART",
+    "MATRIMONY"
   ],
-  "totalProcessed": 2
+  "revised": [
+    "DMART",
+    "REPL",
+    "RETAIL"
+  ],
+  "totalProcessed": 10
 }

@@ -8321,6 +8321,23 @@
       "others": 0,
       "individual": 23.69,
       "institutional": 3.28
+    },
+    "2025-03-31": {
+      "promoter": 65.99,
+      "fii": 3.76,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 5.83,
+      "hni": 17.55,
+      "nri": 0.35,
+      "corporate": 4.38,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 23.38,
+      "institutional": 3.76
     }
   },
   "AZAD": {
@@ -41700,6 +41717,23 @@
       "others": 0,
       "individual": 3.43,
       "institutional": 62.4
+    },
+    "2026-03-31": {
+      "promoter": 17.55,
+      "fii": 4.26,
+      "mutualFund": 6.43,
+      "insurance": 0.32,
+      "banks": 0.25,
+      "retail": 0.56,
+      "hni": 0.77,
+      "nri": 0.02,
+      "corporate": 0.37,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 1.33,
+      "institutional": 11.26
     }
   },
   "LEXUS": {
@@ -45038,6 +45072,23 @@
       "others": 0,
       "individual": 11.48,
       "institutional": 25.25
+    },
+    "2026-03-31": {
+      "promoter": 58.26,
+      "fii": 19.28,
+      "mutualFund": 2.76,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 8.3,
+      "hni": 2.68,
+      "nri": 0.84,
+      "corporate": 2.37,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 10.98,
+      "institutional": 22.04
     }
   },
   "MAWANASUG": {
@@ -67544,6 +67595,23 @@
       "others": 0,
       "individual": 29.25,
       "institutional": 9.52
+    },
+    "2026-03-31": {
+      "promoter": 51.74,
+      "fii": 1.19,
+      "mutualFund": 10.33,
+      "insurance": 1.73,
+      "banks": 0,
+      "retail": 14.65,
+      "hni": 9.58,
+      "nri": 1.7,
+      "corporate": 2.76,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 24.23,
+      "institutional": 13.25
     }
   },
   "SMARTLINK": {
@@ -69524,6 +69592,23 @@
       "others": 0,
       "individual": 25.36,
       "institutional": 0.18
+    },
+    "2026-03-31": {
+      "promoter": 71.66,
+      "fii": 0.01,
+      "mutualFund": 0.04,
+      "insurance": 0.08,
+      "banks": 0.01,
+      "retail": 17.14,
+      "hni": 7.64,
+      "nri": 0.55,
+      "corporate": 1.19,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 24.78,
+      "institutional": 0.14
     }
   },
   "STERTOOLS": {
@@ -79912,6 +79997,23 @@
       "others": 0,
       "individual": 18.16,
       "institutional": 0.23
+    },
+    "2026-03-31": {
+      "promoter": 74.95,
+      "fii": 0.18,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 15.66,
+      "hni": 2.13,
+      "nri": 0.25,
+      "corporate": 2.3,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 17.79,
+      "institutional": 0.18
     }
   },
   "VRLLOG": {
@@ -82394,6 +82496,25 @@
       "others": 0,
       "individual": 7.2,
       "institutional": 2.2
+    }
+  },
+  "SHADOWFAX": {
+    "2026-03-31": {
+      "promoter": 16.59,
+      "fii": 7.65,
+      "mutualFund": 12.49,
+      "insurance": 2.14,
+      "banks": 0,
+      "retail": 2.87,
+      "hni": 4.94,
+      "nri": 0.04,
+      "corporate": 7.56,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 7.81,
+      "institutional": 22.28
     }
   }
 }
