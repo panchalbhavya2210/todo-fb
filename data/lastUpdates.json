@@ -1,18 +1,8 @@
 {
-  "time": "2026-05-12T06:26:10.413Z",
+  "time": "2026-05-15T06:46:14.627Z",
   "new": [
-    "AYMSYNTEX",
-    "SKYGOLD",
-    "VRAJ",
-    "SHADOWFAX",
-    "STEL",
-    "LENSKART",
-    "MATRIMONY"
+    "PRECWIRE"
   ],
-  "revised": [
-    "DMART",
-    "REPL",
-    "RETAIL"
-  ],
-  "totalProcessed": 10
+  "revised": [],
+  "totalProcessed": 1
 }

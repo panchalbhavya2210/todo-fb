@@ -56523,6 +56523,23 @@
       "others": 0,
       "individual": 28.22,
       "institutional": 0.75
+    },
+    "2026-03-31": {
+      "promoter": 56.62,
+      "fii": 1.65,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 16.3,
+      "hni": 10.61,
+      "nri": 2.87,
+      "corporate": 9.01,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 26.91,
+      "institutional": 1.65
     }
   },
   "PREMEXPLN": {
