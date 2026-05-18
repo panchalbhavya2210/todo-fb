@@ -862,6 +862,23 @@
       "others": 0,
       "individual": 8.36,
       "institutional": 15.39
+    },
+    "2026-03-31": {
+      "promoter": 68.51,
+      "fii": 7.7,
+      "mutualFund": 6.57,
+      "insurance": 2.66,
+      "banks": 0.08,
+      "retail": 5.63,
+      "hni": 1.71,
+      "nri": 0.48,
+      "corporate": 1.07,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 7.34,
+      "institutional": 17.01
     }
   },
   "ABCOTS": {
@@ -11756,12 +11773,12 @@
   },
   "BLUECOAST": {
     "2025-12-31": {
-      "promoter": 71.37,
+      "promoter": 71.41,
       "fii": 0,
       "mutualFund": 0,
       "insurance": 0,
       "banks": 0,
-      "retail": 4.33,
+      "retail": 4.29,
       "hni": 0.39,
       "nri": 0.05,
       "corporate": 10.27,
@@ -11769,7 +11786,7 @@
       "clearing": 0,
       "nbfc": 0,
       "others": 0,
-      "individual": 4.72,
+      "individual": 4.68,
       "institutional": 0
     },
     "2025-09-30": {
@@ -11787,6 +11804,23 @@
       "nbfc": 0,
       "others": 0,
       "individual": 4.53,
+      "institutional": 0
+    },
+    "2026-03-31": {
+      "promoter": 71.41,
+      "fii": 0,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 4.42,
+      "hni": 0.39,
+      "nri": 0.05,
+      "corporate": 10.1,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 4.81,
       "institutional": 0
     }
   },

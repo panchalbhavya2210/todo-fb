@@ -1,8 +1,11 @@
 {
-  "time": "2026-05-15T06:46:14.627Z",
+  "time": "2026-05-18T07:10:38.971Z",
   "new": [
-    "PRECWIRE"
+    "BLUECOAST",
+    "ABCAPITAL"
   ],
-  "revised": [],
-  "totalProcessed": 1
+  "revised": [
+    "BLUECOAST"
+  ],
+  "totalProcessed": 3
 }
