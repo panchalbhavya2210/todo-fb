@@ -141,6 +141,9 @@ async function extractOnePage(job) {
         text.includes("AUC as on")
       );
     }).first();
+    console.log("TABLE COUNT:", $("table").length);
+    console.log("ROW COUNT:", table.find("tr").length);
+    console.log($.html().slice(0, 2000));
     const rows = table.find("tr");
 
     const HEADER_ROWS = 4;
