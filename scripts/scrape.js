@@ -166,7 +166,12 @@ async function extractOnePage(job) {
       headerPaths[c] = path.join(" > ");
     }
 
-    const targetIndex = headerPaths.indexOf(job.aucName);
+    // const targetIndex = headerPaths.indexOf(job.aucName);
+    const targetIndex = headerPaths.findIndex(
+  (h) =>
+    /AUC as on/i.test(h) &&
+    /Equity\s*>\s*Equity/i.test(h)
+);
     const sectorIndex = headerPaths.indexOf("Sectors");
 
     if (targetIndex === -1 || sectorIndex === -1) return [];
