@@ -132,7 +132,15 @@ async function extractOnePage(job) {
 
     const $ = cheerio.load(html);
 
-    const table = $("table").first();
+    // const table = $("table").first();
+    const table = $("table").filter((_, el) => {
+    const text = $(el).text();
+  
+      return (
+        text.includes("Sectors") &&
+        text.includes("AUC as on")
+      );
+    }).first();
     const rows = table.find("tr");
 
     const HEADER_ROWS = 4;
@@ -174,7 +182,15 @@ async function extractOnePage(job) {
 );
     const sectorIndex = headerPaths.indexOf("Sectors");
 
-    if (targetIndex === -1 || sectorIndex === -1) return [];
+  if (targetIndex === -1 || sectorIndex === -1) {
+  console.log("HEADER PATHS:");
+  console.log(headerPaths);
+
+  console.log("EXPECTED:");
+  console.log(job.aucName);
+
+  return [];
+}
 
     const out = [];
 
