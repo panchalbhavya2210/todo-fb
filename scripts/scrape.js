@@ -133,14 +133,13 @@ async function extractOnePage(job) {
     const $ = cheerio.load(html);
 
     // const table = $("table").first();
-    const table = $("table").filter((_, el) => {
-    const text = $(el).text();
-  
-      return (
-        text.includes("Sectors") &&
-        text.includes("AUC as on")
-      );
-    }).first();
+    const table = $("table")
+      .filter((_, el) => {
+        const text = $(el).text();
+
+        return text.includes("Sectors") && text.includes("AUC as on");
+      })
+      .first();
     console.log("TABLE COUNT:", $("table").length);
     console.log("ROW COUNT:", table.find("tr").length);
     console.log($.html().slice(0, 2000));
@@ -151,7 +150,7 @@ async function extractOnePage(job) {
 
     for (let r = 0; r < HEADER_ROWS; r++) {
       const row = $(rows[r]);
-      const cells = row.find("td");
+      const cells = row.find("td , th");
 
       headerGrid[r] = [];
       let colIndex = 0;
@@ -179,28 +178,26 @@ async function extractOnePage(job) {
 
     // const targetIndex = headerPaths.indexOf(job.aucName);
     const targetIndex = headerPaths.findIndex(
-  (h) =>
-    /AUC as on/i.test(h) &&
-    /Equity\s*>\s*Equity/i.test(h)
-);
+      (h) => /AUC as on/i.test(h) && /Equity\s*>\s*Equity/i.test(h),
+    );
     const sectorIndex = headerPaths.indexOf("Sectors");
 
-  if (targetIndex === -1 || sectorIndex === -1) {
-  console.log("HEADER PATHS:");
-  console.log(headerPaths);
+    if (targetIndex === -1 || sectorIndex === -1) {
+      console.log("HEADER PATHS:");
+      console.log(headerPaths);
 
-  console.log("EXPECTED:");
-  console.log(job.aucName);
+      console.log("EXPECTED:");
+      console.log(job.aucName);
 
-  return [];
-}
+      return [];
+    }
 
     const out = [];
 
     rows.each((i, row) => {
       if (i < HEADER_ROWS) return;
 
-      const cells = $(row).find("td");
+      const cells = $(row).find("td, th");
       if (!cells.length) return;
 
       const sector = $(cells[sectorIndex]).text().trim();
