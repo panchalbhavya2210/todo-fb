@@ -1,11 +1,33 @@
 {
-  "time": "2026-05-25T08:05:22.093Z",
+  "time": "2026-05-25T15:04:00.030Z",
   "new": [
-    "WELSPUNLIV"
+    "360ONE",
+    "VMART",
+    "RVHL",
+    "VINYLINDIA",
+    "TRITURBINE",
+    "TIMETECHNO",
+    "TREL",
+    "JAICORPLTD",
+    "COFORGE",
+    "ICIL"
   ],
   "revised": [
-    "WELENT",
-    "TRANSRAILL"
+    "ETHOSLTD",
+    "SUMEETINDS",
+    "TIIL",
+    "AAKASH",
+    "AVANTEL",
+    "JTLIND",
+    "SHYAMMETL",
+    "ROHLTD",
+    "MBAPL",
+    "MEIL",
+    "THANGAMAYL",
+    "SAGARDEEP",
+    "SALONA",
+    "EMMVEE",
+    "RATEGAIN"
   ],
-  "totalProcessed": 4
+  "totalProcessed": 25
 }
