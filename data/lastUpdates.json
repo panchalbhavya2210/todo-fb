@@ -1,8 +1,11 @@
 {
-  "time": "2026-05-24T06:50:24.028Z",
+  "time": "2026-05-25T08:05:22.093Z",
   "new": [
-    "GUJGASLTD"
+    "WELSPUNLIV"
   ],
-  "revised": [],
-  "totalProcessed": 1
+  "revised": [
+    "WELENT",
+    "TRANSRAILL"
+  ],
+  "totalProcessed": 4
 }

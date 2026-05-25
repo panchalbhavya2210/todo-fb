@@ -80810,14 +80810,14 @@
       "insurance": 1.15,
       "banks": 0,
       "retail": 8.14,
-      "hni": 12.39,
+      "hni": 12.29,
       "nri": 0.96,
       "corporate": 5.09,
       "trust": 0,
       "clearing": 0,
       "nbfc": 0,
       "others": 0,
-      "individual": 20.53,
+      "individual": 20.43,
       "institutional": 10.11
     }
   },
@@ -80891,6 +80891,23 @@
       "others": 0,
       "individual": 14.18,
       "institutional": 13.54
+    },
+    "2026-03-31": {
+      "promoter": 66.24,
+      "fii": 4.99,
+      "mutualFund": 4.84,
+      "insurance": 6.33,
+      "banks": 0,
+      "retail": 8.38,
+      "hni": 3.58,
+      "nri": 0.49,
+      "corporate": 3.56,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 11.96,
+      "institutional": 16.16
     }
   },
   "WENDT": {
