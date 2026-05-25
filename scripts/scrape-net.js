@@ -179,7 +179,7 @@ async function extractOnePage(date) {
   /* ---------- Build header grid ---------- */
   for (let r = 0; r < HEADER_ROWS; r++) {
     const row = $(rows[r]);
-    const cells = row.find("td");
+    const cells = row.find("td, th");
 
     headerGrid[r] = [];
     let colIndex = 0;
@@ -229,7 +229,7 @@ async function extractOnePage(date) {
   rows.each((i, row) => {
     if (i < HEADER_ROWS) return;
 
-    const cells = $(row).find("td");
+    const cells = $(row).find("td, th");
     if (!cells.length) return;
 
     let sector = $(cells[sectorIndex])

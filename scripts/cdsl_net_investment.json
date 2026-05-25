@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T17:32:32.174Z",
+  "lastUpdated": "2026-05-25T14:51:57.600Z",
   "sectors": {
     "Automobile and Auto Components": [
       {
@@ -136,6 +136,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": 511
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": 3075
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": -4807
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -7691
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -3704
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": -1775
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -357
       }
     ],
     "Capital Goods": [
@@ -273,6 +303,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": 8032
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": 4103
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": 3897
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -749
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -328
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": 4667
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": 2645
       }
     ],
     "Chemicals": [
@@ -410,6 +470,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": 642
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": -394
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": 225
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -457
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -266
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": -121
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -700
       }
     ],
     "Construction": [
@@ -547,6 +637,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": 1745
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": 2742
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": -2975
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -6179
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -1273
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": 2199
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -991
       }
     ],
     "Construction Materials": [
@@ -684,6 +804,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": 378
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": -57
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": -1492
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -1652
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -601
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": -670
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -1207
       }
     ],
     "Consumer Durables": [
@@ -821,6 +971,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": -434
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": -322
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": -1727
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -1175
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -361
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": 441
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -1162
       }
     ],
     "Consumer Services": [
@@ -958,6 +1138,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": 1066
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": -5238
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": 531
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -2672
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -5336
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": -2434
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -365
       }
     ],
     "Diversified": [
@@ -1095,6 +1305,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": -2
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": 2
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -21
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": 5
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": 3
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": 33
       }
     ],
     "Fast Moving Consumer Goods": [
@@ -1232,6 +1472,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": -1182
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": -769
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": -2403
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -3016
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -2976
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": -229
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -1625
       }
     ],
     "Financial Services": [
@@ -1369,6 +1639,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": 6175
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": 2243
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": -31831
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -28824
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -19152
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": -11704
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -17960
       }
     ],
     "Forest Materials": [
@@ -1506,6 +1806,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": 30
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": 8
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": -4
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -13
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -19
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": 73
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -41
       }
     ],
     "Healthcare": [
@@ -1643,6 +1973,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": -1051
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": 722
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": -2436
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -2202
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -4481
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": -2445
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -418
       }
     ],
     "Information Technology": [
@@ -1780,6 +2140,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": -10956
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": -5993
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": -1263
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -611
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -1325
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": -2887
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -1643
       }
     ],
     "Media, Entertainment & Publication": [
@@ -1917,6 +2307,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": 134
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": -62
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": -57
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": 40
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -59
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": -149
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -12
       }
     ],
     "Metals & Mining": [
@@ -2054,6 +2474,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": 3279
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": 2359
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": 876
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -4041
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -1198
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": 2416
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": 1698
       }
     ],
     "Oil, Gas & Consumable Fuels": [
@@ -2191,6 +2641,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": 4678
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": 703
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": -2932
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -1197
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -3352
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": -3351
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -6885
       }
     ],
     "Power": [
@@ -2328,6 +2808,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": 3272
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": 1234
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": 602
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -832
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": 601
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": 4956
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -1157
       }
     ],
     "Realty": [
@@ -2465,6 +2975,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": 786
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": -52
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": -2133
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -2560
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -1917
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": -206
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -430
       }
     ],
     "Services": [
@@ -2602,6 +3142,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": 1286
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": 205
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": -1275
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -1300
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -591
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": -362
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": 7019
       }
     ],
     "Telecommunication": [
@@ -2739,6 +3309,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": -106
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": -1775
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": -3856
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -1747
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -2492
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": -1908
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -2542
       }
     ],
     "Textiles": [
@@ -2876,6 +3476,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": -67
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": -33
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": -177
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": -142
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": -50
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": -48
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -112
       }
     ],
     "Utilities": [
@@ -3013,6 +3643,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": -14
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": 8
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": -14
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": 3
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": 4
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": -12
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -28
       }
     ],
     "Sovereign": [
@@ -3149,6 +3809,36 @@
       {
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": 0
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
         "net_investment_equity": 0
       }
     ],
@@ -3287,6 +3977,36 @@
         "period_start": "2026-02-01",
         "period_end": "2026-02-15",
         "net_investment_equity": 1473
+      },
+      {
+        "period_start": "2026-02-16",
+        "period_end": "2026-02-28",
+        "net_investment_equity": 231
+      },
+      {
+        "period_start": "2026-03-01",
+        "period_end": "2026-03-15",
+        "net_investment_equity": 548
+      },
+      {
+        "period_start": "2026-03-16",
+        "period_end": "2026-03-31",
+        "net_investment_equity": 1967
+      },
+      {
+        "period_start": "2026-04-01",
+        "period_end": "2026-04-15",
+        "net_investment_equity": 730
+      },
+      {
+        "period_start": "2026-04-16",
+        "period_end": "2026-04-30",
+        "net_investment_equity": 837
+      },
+      {
+        "period_start": "2026-05-01",
+        "period_end": "2026-05-15",
+        "net_investment_equity": -808
       }
     ]
   }
