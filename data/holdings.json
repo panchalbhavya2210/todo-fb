@@ -25264,6 +25264,23 @@
       "others": 0,
       "individual": 46.39,
       "institutional": 4.69
+    },
+    "2026-03-31": {
+      "promoter": 31.5,
+      "fii": 2.34,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 31.19,
+      "hni": 15.56,
+      "nri": 2.8,
+      "corporate": 3.6,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 46.75,
+      "institutional": 2.34
     }
   },
   "GENSOL": {
@@ -30349,6 +30366,40 @@
       "others": 0,
       "individual": 27.32,
       "institutional": 0.04
+    },
+    "2025-08-11": {
+      "promoter": 70.04,
+      "fii": 0.55,
+      "mutualFund": 0.16,
+      "insurance": 0.04,
+      "banks": 2.17,
+      "retail": 21.08,
+      "hni": 0,
+      "nri": 0.02,
+      "corporate": 1.61,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 21.08,
+      "institutional": 2.92
+    },
+    "2025-09-30": {
+      "promoter": 70.04,
+      "fii": 0,
+      "mutualFund": 0,
+      "insurance": 0.5,
+      "banks": 1.51,
+      "retail": 25.21,
+      "hni": 0,
+      "nri": 0.19,
+      "corporate": 1.59,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 25.21,
+      "institutional": 2.01
     }
   },
   "HILTON": {
