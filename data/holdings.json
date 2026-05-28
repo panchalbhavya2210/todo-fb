@@ -68716,6 +68716,23 @@
       "others": 0,
       "individual": 18.94,
       "institutional": 2.77
+    },
+    "2026-05-19": {
+      "promoter": 65.67,
+      "fii": 2.47,
+      "mutualFund": 0.09,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 14.66,
+      "hni": 4.48,
+      "nri": 0.77,
+      "corporate": 6.88,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 19.14,
+      "institutional": 2.56
     }
   },
   "SPCENET": {
