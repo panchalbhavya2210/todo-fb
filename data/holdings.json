@@ -13457,6 +13457,23 @@
       "others": 0,
       "individual": 15.18,
       "institutional": 40.43
+    },
+    "2026-03-31": {
+      "promoter": 38.89,
+      "fii": 10.73,
+      "mutualFund": 27.75,
+      "insurance": 1.41,
+      "banks": 0.01,
+      "retail": 11.03,
+      "hni": 4.72,
+      "nri": 1.63,
+      "corporate": 2.25,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 15.75,
+      "institutional": 39.9
     }
   },
   "CARERATING": {
