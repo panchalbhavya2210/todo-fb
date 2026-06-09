@@ -31603,6 +31603,23 @@
       "others": 0,
       "individual": 31.85,
       "institutional": 2.05
+    },
+    "2026-03-31": {
+      "promoter": 32.84,
+      "fii": 1.4,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 10.24,
+      "hni": 22.26,
+      "nri": 2.88,
+      "corporate": 25.02,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 32.5,
+      "institutional": 1.4
     }
   },
   "HUDCO": {
@@ -31908,6 +31925,23 @@
       "others": 0,
       "individual": 5.11,
       "institutional": 5.07
+    },
+    "2026-03-31": {
+      "promoter": 87.59,
+      "fii": 2.4,
+      "mutualFund": 5.13,
+      "insurance": 1.16,
+      "banks": 0,
+      "retail": 1.5,
+      "hni": 0.18,
+      "nri": 0.05,
+      "corporate": 0.29,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 1.68,
+      "institutional": 8.69
     }
   },
   "ICICIBANK": {
