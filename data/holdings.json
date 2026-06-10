@@ -40786,6 +40786,23 @@
       "others": 0,
       "individual": 15.28,
       "institutional": 7.7
+    },
+    "2026-06-01": {
+      "promoter": 67.22,
+      "fii": 8.37,
+      "mutualFund": 3.45,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 10.18,
+      "hni": 3.17,
+      "nri": 0.45,
+      "corporate": 1.38,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 13.35,
+      "institutional": 11.82
     }
   },
   "KRONOX": {
