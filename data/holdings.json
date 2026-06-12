@@ -22386,6 +22386,23 @@
       "others": 0,
       "individual": 78.39,
       "institutional": 0.07
+    },
+    "2026-06-11": {
+      "promoter": 9.72,
+      "fii": 0.03,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 41.72,
+      "hni": 13.61,
+      "nri": 1.19,
+      "corporate": 31.55,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 55.33,
+      "institutional": 0.03
     }
   },
   "ESTER": {
