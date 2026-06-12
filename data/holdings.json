@@ -52157,6 +52157,23 @@
       "others": 0,
       "individual": 25.25,
       "institutional": 9.04
+    },
+    "2026-06-04": {
+      "promoter": 32.97,
+      "fii": 5.12,
+      "mutualFund": 7.51,
+      "insurance": 0.03,
+      "banks": 0,
+      "retail": 19.97,
+      "hni": 8.15,
+      "nri": 0.91,
+      "corporate": 1.45,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 28.12,
+      "institutional": 12.66
     }
   },
   "OLECTRA": {
