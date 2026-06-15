@@ -79723,6 +79723,23 @@
       "others": 0,
       "individual": 18.46,
       "institutional": 21.25
+    },
+    "2026-03-31": {
+      "promoter": 42.35,
+      "fii": 7.05,
+      "mutualFund": 14.42,
+      "insurance": 0.4,
+      "banks": 0.01,
+      "retail": 16.95,
+      "hni": 1.83,
+      "nri": 1.33,
+      "corporate": 11.06,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 18.78,
+      "institutional": 21.88
     }
   },
   "VIPULLTD": {
