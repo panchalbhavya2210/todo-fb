@@ -34,23 +34,32 @@ function getAllCdslDates(startYear, endYear) {
 
 /* =========================================================
 2) URL patterns (CDSL uses 4 different filename styles)
-========================================================= */
-function generateCandidateUrls(date) {
-  const month = date.toLocaleString("en-US", { month: "long" });
+========================================================= */function generateCandidateUrls(date) {
+  const fullMonth = date.toLocaleString("en-US", {
+    month: "long",
+  });
+
+  const shortMonth = date.toLocaleString("en-US", {
+    month: "short",
+  });
+
   const day = date.getDate();
   const year = date.getFullYear();
 
-  const noSpace = `${month}${day}${year}.html`;
-  const space = `${month} ${day} ${year}.html`;
-  const commaSpace = `${month} ${day}, ${year}.html`;
-  const commaNoSpace = `${month} ${day},${year}.html`;
+  const names = [fullMonth, shortMonth];
 
-  return [
-    BASE_URL + noSpace,
-    BASE_URL + encodeURIComponent(space),
-    BASE_URL + encodeURIComponent(commaSpace),
-    BASE_URL + encodeURIComponent(commaNoSpace),
-  ];
+  const urls = [];
+
+  for (const month of names) {
+    urls.push(
+      BASE_URL + `${month}${day}${year}.html`,
+      BASE_URL + encodeURIComponent(`${month} ${day} ${year}.html`),
+      BASE_URL + encodeURIComponent(`${month} ${day}, ${year}.html`),
+      BASE_URL + encodeURIComponent(`${month} ${day},${year}.html`)
+    );
+  }
+
+  return [...new Set(urls)];
 }
 
 /* =========================================================
