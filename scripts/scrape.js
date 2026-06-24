@@ -26,32 +26,33 @@ function getAllCdslDates(startYear, endYear) {
 /* =========================================================
     2) CDSL has multiple filename patterns
     ========================================================= */
-
 function generateCandidateUrls(date) {
-  const month = date.toLocaleString("en-US", { month: "long" });
+  const fullMonth = date.toLocaleString("en-US", {
+    month: "long",
+  });
+
+  const shortMonth = date.toLocaleString("en-US", {
+    month: "short",
+  });
+
   const day = date.getDate();
   const year = date.getFullYear();
 
-  // 1) Modern format
-  const noSpace = `${month}${day}${year}.html`;
+  const names = [fullMonth, shortMonth];
 
-  // 2) "October 15 2025.html"
-  const space = `${month} ${day} ${year}.html`;
+  const urls = [];
 
-  // 3) "October 15, 2025.html"
-  const commaSpace = `${month} ${day}, ${year}.html`;
+  for (const month of names) {
+    urls.push(
+      BASE_URL + `${month}${day}${year}.html`,
+      BASE_URL + encodeURIComponent(`${month} ${day} ${year}.html`),
+      BASE_URL + encodeURIComponent(`${month} ${day}, ${year}.html`),
+      BASE_URL + encodeURIComponent(`${month} ${day},${year}.html`)
+    );
+  }
 
-  // 4) "October 15,2025.html"  ← IMPORTANT (what you found)
-  const commaNoSpace = `${month} ${day},${year}.html`;
-
-  return [
-    BASE_URL + noSpace,
-    BASE_URL + encodeURIComponent(space),
-    BASE_URL + encodeURIComponent(commaSpace),
-    BASE_URL + encodeURIComponent(commaNoSpace),
-  ];
+  return [...new Set(urls)];
 }
-
 /* =========================================================
     3) Create jobs
     ========================================================= */
