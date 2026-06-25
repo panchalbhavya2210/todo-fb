@@ -15395,6 +15395,23 @@
       "others": 0,
       "individual": 24.28,
       "institutional": 55.53
+    },
+    "2026-06-19": {
+      "promoter": 0,
+      "fii": 24.22,
+      "mutualFund": 28.67,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 21.82,
+      "hni": 4.75,
+      "nri": 1.38,
+      "corporate": 3.6,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 26.57,
+      "institutional": 52.89
     }
   },
   "CNL": {
