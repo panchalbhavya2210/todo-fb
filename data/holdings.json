@@ -52297,6 +52297,40 @@
       "others": 0,
       "individual": 38.8,
       "institutional": 0
+    },
+    "2026-03-31": {
+      "promoter": 54.86,
+      "fii": 0.36,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 22.42,
+      "hni": 15.64,
+      "nri": 0.78,
+      "corporate": 2.6,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 38.06,
+      "institutional": 0.36
+    },
+    "2025-06-30": {
+      "promoter": 52.85,
+      "fii": 0.29,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 21.89,
+      "hni": 16.48,
+      "nri": 0.62,
+      "corporate": 4.32,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 38.37,
+      "institutional": 0.29
     }
   },
   "OMAXE": {
