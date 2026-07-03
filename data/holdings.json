@@ -32298,6 +32298,23 @@
       "others": 0,
       "individual": 42.82,
       "institutional": 1.74
+    },
+    "2026-06-30": {
+      "promoter": 28.96,
+      "fii": 4.89,
+      "mutualFund": 1.81,
+      "insurance": 0,
+      "banks": 0.47,
+      "retail": 30.8,
+      "hni": 7.92,
+      "nri": 3.4,
+      "corporate": 5.45,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 38.72,
+      "institutional": 7.17
     }
   },
   "IDFCFIRSTB": {
@@ -57096,6 +57113,23 @@
       "others": 0,
       "individual": 25.21,
       "institutional": 29.12
+    },
+    "2026-06-30": {
+      "promoter": 38.51,
+      "fii": 13.95,
+      "mutualFund": 9.86,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 28.42,
+      "hni": 0.62,
+      "nri": 1.84,
+      "corporate": 2.05,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 29.04,
+      "institutional": 23.81
     }
   },
   "PRIMESECU": {
