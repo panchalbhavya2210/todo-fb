@@ -3395,6 +3395,23 @@
       "others": 0,
       "individual": 28.25,
       "institutional": 0.08
+    },
+    "2026-06-30": {
+      "promoter": 62.7,
+      "fii": 0,
+      "mutualFund": 0.06,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 21.48,
+      "hni": 5.7,
+      "nri": 0.58,
+      "corporate": 0.88,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 27.18,
+      "institutional": 0.06
     }
   },
   "AKSHOPTFBR": {
@@ -4814,6 +4831,23 @@
       "others": 0,
       "individual": 24.29,
       "institutional": 1.7
+    },
+    "2026-06-30": {
+      "promoter": 69.94,
+      "fii": 0.41,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 16.99,
+      "hni": 7.67,
+      "nri": 1.38,
+      "corporate": 1.37,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 24.66,
+      "institutional": 0.41
     }
   },
   "ANTGRAPHIC": {
@@ -11911,6 +11945,23 @@
       "others": 0,
       "individual": 9.79,
       "institutional": 4.32
+    },
+    "2026-06-30": {
+      "promoter": 79.81,
+      "fii": 0.4,
+      "mutualFund": 1.72,
+      "insurance": 0.81,
+      "banks": 0,
+      "retail": 9.85,
+      "hni": 1.17,
+      "nri": 0.54,
+      "corporate": 2.69,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 11.02,
+      "institutional": 2.93
     }
   },
   "BLUESTARCO": {
@@ -72729,6 +72780,23 @@
       "nbfc": 0,
       "others": 0,
       "individual": 29.16,
+      "institutional": 1.8
+    },
+    "2026-06-30": {
+      "promoter": 29.05,
+      "fii": 1.8,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 14.37,
+      "hni": 17.03,
+      "nri": 1.53,
+      "corporate": 30.9,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 31.4,
       "institutional": 1.8
     }
   },
