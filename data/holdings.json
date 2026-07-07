@@ -19595,6 +19595,23 @@
       "others": 0,
       "individual": 34.59,
       "institutional": 1.11
+    },
+    "2026-06-30": {
+      "promoter": 51.02,
+      "fii": 1.36,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 32.89,
+      "hni": 1.97,
+      "nri": 8.97,
+      "corporate": 1.87,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 34.86,
+      "institutional": 1.36
     }
   },
   "DMART": {
@@ -31203,6 +31220,23 @@
       "others": 0,
       "individual": 7.71,
       "institutional": 5.85
+    },
+    "2026-06-30": {
+      "promoter": 75,
+      "fii": 4.83,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 8.28,
+      "hni": 1.19,
+      "nri": 0.27,
+      "corporate": 6.5,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 9.47,
+      "institutional": 4.83
     }
   },
   "HMT": {
@@ -61476,6 +61510,23 @@
       "others": 0,
       "individual": 28.15,
       "institutional": 0.15
+    },
+    "2026-06-30": {
+      "promoter": 62.89,
+      "fii": 0.81,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 7.73,
+      "hni": 20.32,
+      "nri": 0.37,
+      "corporate": 6.49,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 28.05,
+      "institutional": 0.81
     }
   },
   "RPGLIFE": {
@@ -63884,6 +63935,23 @@
       "others": 0,
       "individual": 15.67,
       "institutional": 4.36
+    },
+    "2026-06-30": {
+      "promoter": 73.16,
+      "fii": 3.52,
+      "mutualFund": 0.53,
+      "insurance": 0.02,
+      "banks": 0,
+      "retail": 13.41,
+      "hni": 2.27,
+      "nri": 0.56,
+      "corporate": 2.15,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 15.68,
+      "institutional": 4.07
     }
   },
   "SAREGAMA": {
@@ -64621,6 +64689,23 @@
       "others": 0,
       "individual": 24.28,
       "institutional": 7.31
+    },
+    "2026-06-30": {
+      "promoter": 63.75,
+      "fii": 1.04,
+      "mutualFund": 0,
+      "insurance": 6.14,
+      "banks": 0.01,
+      "retail": 16.74,
+      "hni": 5.65,
+      "nri": 1.32,
+      "corporate": 4.13,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 22.39,
+      "institutional": 7.19
     }
   },
   "SCODATUBES": {
