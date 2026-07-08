@@ -42174,6 +42174,23 @@
       "others": 0,
       "individual": 17.05,
       "institutional": 40.79
+    },
+    "2026-06-30": {
+      "promoter": 22.32,
+      "fii": 19.45,
+      "mutualFund": 13.55,
+      "insurance": 0.47,
+      "banks": 0.03,
+      "retail": 16.13,
+      "hni": 7.63,
+      "nri": 1.41,
+      "corporate": 2.81,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 23.76,
+      "institutional": 33.5
     }
   },
   "LENSKART": {
@@ -55335,6 +55352,23 @@
       "others": 0,
       "individual": 2404,
       "institutional": 725
+    },
+    "2026-06-30": {
+      "promoter": 64.99,
+      "fii": 2.03,
+      "mutualFund": 3.64,
+      "insurance": 1.41,
+      "banks": 0,
+      "retail": 14.44,
+      "hni": 9.37,
+      "nri": 1.17,
+      "corporate": 1.75,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 23.81,
+      "institutional": 7.08
     }
   },
   "PGEL": {
@@ -68641,6 +68675,23 @@
       "nbfc": 0,
       "others": 0,
       "individual": 22.21,
+      "institutional": 0.14
+    },
+    "2026-06-30": {
+      "promoter": 68.81,
+      "fii": 0.14,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 21.28,
+      "hni": 1.3,
+      "nri": 0.81,
+      "corporate": 1.22,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 22.58,
       "institutional": 0.14
     }
   },
