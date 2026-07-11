@@ -16569,6 +16569,23 @@
       "others": 0,
       "individual": 5.76,
       "institutional": 35.1
+    },
+    "2026-06-30": {
+      "promoter": 42.41,
+      "fii": 17.28,
+      "mutualFund": 23.82,
+      "insurance": 4.14,
+      "banks": 0,
+      "retail": 4.68,
+      "hni": 0.77,
+      "nri": 0.22,
+      "corporate": 0.76,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 5.45,
+      "institutional": 45.24
     }
   },
   "CRAMC": {
