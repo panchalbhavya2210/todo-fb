@@ -1,8 +1,16 @@
 {
-  "time": "2026-07-11T05:57:49.236Z",
+  "time": "2026-07-13T06:38:30.769Z",
   "new": [
-    "CRAFTSMAN"
+    "NCC",
+    "PRECWIRE",
+    "MMP",
+    "ASTRAMICRO",
+    "SHREECEM",
+    "ICDSLTD",
+    "ADVANCE",
+    "PUNJABCHEM",
+    "STEELCAS"
   ],
   "revised": [],
-  "totalProcessed": 1
+  "totalProcessed": 9
 }

@@ -1940,6 +1940,23 @@
       "others": 0,
       "individual": 14.08,
       "institutional": 11.26
+    },
+    "2026-06-30": {
+      "promoter": 69.89,
+      "fii": 3.82,
+      "mutualFund": 0,
+      "insurance": 0.03,
+      "banks": 0,
+      "retail": 6.28,
+      "hni": 6.15,
+      "nri": 0.15,
+      "corporate": 10.79,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 12.43,
+      "institutional": 3.85
     }
   },
   "ADVANIHOTR": {
@@ -7093,6 +7110,23 @@
       "others": 0,
       "individual": 30.51,
       "institutional": 20.39
+    },
+    "2026-06-30": {
+      "promoter": 6.54,
+      "fii": 10.74,
+      "mutualFund": 15.37,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 21.27,
+      "hni": 6.42,
+      "nri": 2.03,
+      "corporate": 26.89,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 27.69,
+      "institutional": 26.11
     }
   },
   "ASTRAZEN": {
@@ -32244,6 +32278,23 @@
       "others": 0,
       "individual": 26.44,
       "institutional": 0.02
+    },
+    "2026-06-30": {
+      "promoter": 51.39,
+      "fii": 0,
+      "mutualFund": 0,
+      "insurance": 0.01,
+      "banks": 0.01,
+      "retail": 15.92,
+      "hni": 10.52,
+      "nri": 0.09,
+      "corporate": 3.76,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 26.44,
+      "institutional": 0.02
     }
   },
   "ICEMAKE": {
@@ -47472,6 +47523,23 @@
       "others": 0,
       "individual": 18.85,
       "institutional": 0
+    },
+    "2026-06-30": {
+      "promoter": 74.49,
+      "fii": 0.02,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 13.08,
+      "hni": 5.87,
+      "nri": 0.98,
+      "corporate": 3.84,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 18.95,
+      "institutional": 0.02
     }
   },
   "MMTC": {
@@ -50077,6 +50145,23 @@
       "others": 0,
       "individual": 41.41,
       "institutional": 27.63
+    },
+    "2026-06-30": {
+      "promoter": 23.08,
+      "fii": 11.29,
+      "mutualFund": 14.13,
+      "insurance": 2.74,
+      "banks": 0,
+      "retail": 25.55,
+      "hni": 15.09,
+      "nri": 1.44,
+      "corporate": 2.93,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 40.64,
+      "institutional": 28.16
     }
   },
   "NCLIND": {
@@ -57475,6 +57560,23 @@
       "others": 0,
       "individual": 26.91,
       "institutional": 1.65
+    },
+    "2026-06-30": {
+      "promoter": 56.62,
+      "fii": 2.47,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 16.19,
+      "hni": 10.29,
+      "nri": 2.87,
+      "corporate": 8.62,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 26.48,
+      "institutional": 2.47
     }
   },
   "PREMEXPLN": {
@@ -58356,6 +58458,23 @@
       "others": 0,
       "individual": 19.89,
       "institutional": 3.03
+    },
+    "2026-06-30": {
+      "promoter": 39.24,
+      "fii": 5.86,
+      "mutualFund": 0.01,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 16.97,
+      "hni": 3.58,
+      "nri": 0.88,
+      "corporate": 29.13,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 20.55,
+      "institutional": 5.87
     }
   },
   "PURVA": {
@@ -67118,6 +67237,23 @@
       "others": 0,
       "individual": 1.78,
       "institutional": 24.18
+    },
+    "2026-06-30": {
+      "promoter": 62.55,
+      "fii": 8.22,
+      "mutualFund": 11.69,
+      "insurance": 4.1,
+      "banks": 0,
+      "retail": 1.62,
+      "hni": 0.06,
+      "nri": 0.17,
+      "corporate": 0.23,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 1.68,
+      "institutional": 24.01
     }
   },
   "SHREEJISPG": {
@@ -70640,6 +70776,23 @@
       "others": 0,
       "individual": 32.8,
       "institutional": 0.5
+    },
+    "2026-06-30": {
+      "promoter": 45,
+      "fii": 0.29,
+      "mutualFund": 1.33,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 21.65,
+      "hni": 10.54,
+      "nri": 8.07,
+      "corporate": 7.51,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 32.19,
+      "institutional": 1.62
     }
   },
   "STEELCITY": {
