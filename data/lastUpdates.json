@@ -1,16 +1,13 @@
 {
-  "time": "2026-07-13T06:38:30.769Z",
+  "time": "2026-07-14T05:53:23.347Z",
   "new": [
-    "NCC",
-    "PRECWIRE",
-    "MMP",
-    "ASTRAMICRO",
-    "SHREECEM",
-    "ICDSLTD",
-    "ADVANCE",
-    "PUNJABCHEM",
-    "STEELCAS"
+    "AVG",
+    "WSTCSTPAPR",
+    "JUNIPER",
+    "BLUEJET",
+    "JOCIL",
+    "SCHAEFFLER"
   ],
   "revised": [],
-  "totalProcessed": 9
+  "totalProcessed": 6
 }
