@@ -1,13 +1,30 @@
 {
-  "time": "2026-07-14T05:53:23.347Z",
+  "time": "2026-07-15T05:54:39.627Z",
   "new": [
-    "AVG",
-    "WSTCSTPAPR",
-    "JUNIPER",
-    "BLUEJET",
-    "JOCIL",
-    "SCHAEFFLER"
+    "TEXINFRA",
+    "ORIENTBELL",
+    "KANANIIND",
+    "GOODLUCK",
+    "THEJO",
+    "BANARISUG",
+    "INDOTHAI",
+    "TALBROAUTO",
+    "JYOTISTRUC",
+    "STLTECH",
+    "GANESHHOU",
+    "MAZDA",
+    "SRHHYPOLTD",
+    "PICCADIL",
+    "SUDEEPPHRM",
+    "ARFIN",
+    "STCINDIA",
+    "CYBERMEDIA",
+    "MIDWESTLTD",
+    "PIXTRANS",
+    "UCAL",
+    "KCP",
+    "SUNDRMFAST"
   ],
   "revised": [],
-  "totalProcessed": 6
+  "totalProcessed": 23
 }

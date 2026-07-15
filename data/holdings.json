@@ -5761,6 +5761,23 @@
       "others": 0,
       "individual": 16.86,
       "institutional": 2.64
+    },
+    "2026-06-30": {
+      "promoter": 69.77,
+      "fii": 0.79,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 8.59,
+      "hni": 7.01,
+      "nri": 1.42,
+      "corporate": 10.5,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 15.6,
+      "institutional": 0.79
     }
   },
   "ARIES": {
@@ -9565,6 +9582,23 @@
       "others": 0,
       "individual": 22.05,
       "institutional": 0.28
+    },
+    "2026-06-30": {
+      "promoter": 58.7,
+      "fii": 0.27,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 6.31,
+      "hni": 15.63,
+      "nri": 0.54,
+      "corporate": 13.44,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 21.94,
+      "institutional": 0.27
     }
   },
   "BANCOINDIA": {
@@ -17265,6 +17299,23 @@
       "nbfc": 0,
       "others": 0,
       "individual": 30.06,
+      "institutional": 0
+    },
+    "2026-06-30": {
+      "promoter": 67.13,
+      "fii": 0,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 18.4,
+      "hni": 10.91,
+      "nri": 0.82,
+      "corporate": 0.85,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 29.31,
       "institutional": 0
     }
   },
@@ -25064,6 +25115,23 @@
       "others": 0,
       "individual": 12.87,
       "institutional": 0.52
+    },
+    "2026-06-30": {
+      "promoter": 73.06,
+      "fii": 0.64,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 5.8,
+      "hni": 6.56,
+      "nri": 0.27,
+      "corporate": 4.36,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 12.36,
+      "institutional": 0.64
     }
   },
   "GANGAFORGE": {
@@ -27699,6 +27767,23 @@
       "others": 0,
       "individual": 32.03,
       "institutional": 2.21
+    },
+    "2026-06-30": {
+      "promoter": 54,
+      "fii": 2.48,
+      "mutualFund": 1.11,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 26.82,
+      "hni": 2.99,
+      "nri": 1.36,
+      "corporate": 4.39,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 29.81,
+      "institutional": 3.59
     }
   },
   "GOPAL": {
@@ -34305,6 +34390,23 @@
       "others": 0,
       "individual": 33.73,
       "institutional": 1.28
+    },
+    "2026-06-30": {
+      "promoter": 56.07,
+      "fii": 1.28,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 18.46,
+      "hni": 13.16,
+      "nri": 0.25,
+      "corporate": 8.86,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 31.62,
+      "institutional": 1.28
     }
   },
   "INDOUS": {
@@ -38456,6 +38558,23 @@
       "others": 0,
       "individual": 78.07,
       "institutional": 1.49
+    },
+    "2026-06-30": {
+      "promoter": 0,
+      "fii": 1.24,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0.13,
+      "retail": 39.86,
+      "hni": 42.02,
+      "nri": 2.75,
+      "corporate": 9.38,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 81.88,
+      "institutional": 1.37
     }
   },
   "KABRAEXTRU": {
@@ -38905,6 +39024,23 @@
       "others": 0,
       "individual": 63.72,
       "institutional": 0
+    },
+    "2026-06-30": {
+      "promoter": 33.79,
+      "fii": 0,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 54.14,
+      "hni": 9.21,
+      "nri": 1.05,
+      "corporate": 0.91,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 63.35,
+      "institutional": 0
     }
   },
   "KANORICHEM": {
@@ -39352,6 +39488,23 @@
       "others": 0,
       "individual": 42.09,
       "institutional": 3.63
+    },
+    "2026-06-30": {
+      "promoter": 44.39,
+      "fii": 2.31,
+      "mutualFund": 0,
+      "insurance": 0.55,
+      "banks": 0,
+      "retail": 26.52,
+      "hni": 15.94,
+      "nri": 2.3,
+      "corporate": 4.6,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 42.46,
+      "institutional": 2.86
     }
   },
   "KCPSUGIND": {
@@ -46172,6 +46325,23 @@
       "others": 0,
       "individual": 35.13,
       "institutional": 0.1
+    },
+    "2026-06-30": {
+      "promoter": 48.68,
+      "fii": 0.07,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0.02,
+      "retail": 27.39,
+      "hni": 7.38,
+      "nri": 1.86,
+      "corporate": 3.62,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 34.77,
+      "institutional": 0.09
     }
   },
   "MAZDOCK": {
@@ -47267,6 +47437,23 @@
       "others": 0,
       "individual": 6.58,
       "institutional": 7.73
+    },
+    "2026-06-30": {
+      "promoter": 77.12,
+      "fii": 3.88,
+      "mutualFund": 7.07,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 2.68,
+      "hni": 0.52,
+      "nri": 0.06,
+      "corporate": 1.07,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 3.2,
+      "institutional": 10.95
     }
   },
   "MINDACORP": {
@@ -53640,6 +53827,23 @@
       "others": 0,
       "individual": 25.28,
       "institutional": 0.2
+    },
+    "2026-06-30": {
+      "promoter": 65.92,
+      "fii": 0.21,
+      "mutualFund": 0,
+      "insurance": 0.02,
+      "banks": 0,
+      "retail": 16.19,
+      "hni": 8.67,
+      "nri": 0.8,
+      "corporate": 5.4,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 24.86,
+      "institutional": 0.23
     }
   },
   "ORIENTCEM": {
@@ -55976,6 +56180,23 @@
       "others": 0,
       "individual": 20.25,
       "institutional": 0.95
+    },
+    "2026-06-30": {
+      "promoter": 68.57,
+      "fii": 0.8,
+      "mutualFund": 0.07,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 15.1,
+      "hni": 6.19,
+      "nri": 0.83,
+      "corporate": 2.93,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 21.29,
+      "institutional": 0.87
     }
   },
   "PIDILITIND": {
@@ -56336,6 +56557,23 @@
       "others": 0,
       "individual": 25.9,
       "institutional": 0.96
+    },
+    "2026-06-30": {
+      "promoter": 62.06,
+      "fii": 0.61,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0.02,
+      "retail": 21.77,
+      "hni": 2.51,
+      "nri": 1.37,
+      "corporate": 1.76,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 24.28,
+      "institutional": 0.63
     }
   },
   "PKTEA": {
@@ -70393,6 +70631,23 @@
       "others": 0,
       "individual": 26.11,
       "institutional": 0.1
+    },
+    "2026-06-30": {
+      "promoter": 61.84,
+      "fii": 0.06,
+      "mutualFund": 0.01,
+      "insurance": 0,
+      "banks": 0.03,
+      "retail": 21.63,
+      "hni": 4.45,
+      "nri": 4.07,
+      "corporate": 0.71,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 26.08,
+      "institutional": 0.1
     }
   },
   "SRM": {
@@ -70825,6 +71080,23 @@
       "others": 0,
       "individual": 8.21,
       "institutional": 0.5
+    },
+    "2026-06-30": {
+      "promoter": 90,
+      "fii": 0.04,
+      "mutualFund": 0,
+      "insurance": 0.46,
+      "banks": 0,
+      "retail": 7.82,
+      "hni": 0.54,
+      "nri": 0.18,
+      "corporate": 0.39,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 8.36,
+      "institutional": 0.5
     }
   },
   "STEELCAS": {
@@ -71111,6 +71383,23 @@
       "others": 0,
       "individual": 26.69,
       "institutional": 20.5
+    },
+    "2026-06-30": {
+      "promoter": 44.52,
+      "fii": 18.22,
+      "mutualFund": 9.48,
+      "insurance": 0.82,
+      "banks": 0.01,
+      "retail": 15.5,
+      "hni": 4.79,
+      "nri": 0.8,
+      "corporate": 2.95,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 20.29,
+      "institutional": 28.53
     }
   },
   "STOVEKRAFT": {
@@ -71524,6 +71813,23 @@
       "others": 0,
       "individual": 3.11,
       "institutional": 8.9
+    },
+    "2026-06-30": {
+      "promoter": 76.15,
+      "fii": 1.81,
+      "mutualFund": 5.47,
+      "insurance": 1.38,
+      "banks": 0,
+      "retail": 3.56,
+      "hni": 1.33,
+      "nri": 0.07,
+      "corporate": 0.37,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 4.89,
+      "institutional": 8.66
     }
   },
   "SUKHJITS": {
@@ -71937,6 +72243,23 @@
       "others": 0,
       "individual": 16.4,
       "institutional": 33.4
+    },
+    "2026-06-30": {
+      "promoter": 46.95,
+      "fii": 11.4,
+      "mutualFund": 20.15,
+      "insurance": 1.77,
+      "banks": 0,
+      "retail": 13.7,
+      "hni": 2.66,
+      "nri": 1.08,
+      "corporate": 0.57,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 16.36,
+      "institutional": 33.32
     }
   },
   "SUNDROP": {
@@ -73517,6 +73840,23 @@
       "others": 0,
       "individual": 32.25,
       "institutional": 0.72
+    },
+    "2026-06-30": {
+      "promoter": 58.43,
+      "fii": 1.26,
+      "mutualFund": 0,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 27.59,
+      "hni": 3.41,
+      "nri": 2,
+      "corporate": 4.43,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 31,
+      "institutional": 1.26
     }
   },
   "TANLA": {
@@ -74883,6 +75223,23 @@
       "others": 0,
       "individual": 20.89,
       "institutional": 0.51
+    },
+    "2026-06-30": {
+      "promoter": 66.55,
+      "fii": 1.71,
+      "mutualFund": 0,
+      "insurance": 0.01,
+      "banks": 0,
+      "retail": 12.51,
+      "hni": 6.65,
+      "nri": 0.3,
+      "corporate": 0,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 19.16,
+      "institutional": 1.72
     }
   },
   "TEXMOPIPES": {
@@ -75171,6 +75528,23 @@
       "others": 0,
       "individual": 26.37,
       "institutional": 2.63
+    },
+    "2026-06-30": {
+      "promoter": 53.61,
+      "fii": 0.85,
+      "mutualFund": 0.49,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 12.34,
+      "hni": 13.85,
+      "nri": 1.23,
+      "corporate": 2.07,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 26.19,
+      "institutional": 1.34
     }
   },
   "THELEELA": {
@@ -77663,6 +78037,23 @@
       "nbfc": 0,
       "others": 0,
       "individual": 25.29,
+      "institutional": 0.01
+    },
+    "2026-06-30": {
+      "promoter": 70.28,
+      "fii": 0,
+      "mutualFund": 0.01,
+      "insurance": 0,
+      "banks": 0,
+      "retail": 20.65,
+      "hni": 4.59,
+      "nri": 0.39,
+      "corporate": 1.62,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 25.24,
       "institutional": 0.01
     }
   },
