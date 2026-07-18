@@ -28613,6 +28613,23 @@
       "others": 0,
       "individual": 65.82,
       "institutional": 2.29
+    },
+    "2026-06-30": {
+      "promoter": 24.38,
+      "fii": 0.64,
+      "mutualFund": 0,
+      "insurance": 1.13,
+      "banks": 0.04,
+      "retail": 42.69,
+      "hni": 23.78,
+      "nri": 1.37,
+      "corporate": 4.1,
+      "trust": 0,
+      "clearing": 0,
+      "nbfc": 0,
+      "others": 0,
+      "individual": 66.47,
+      "institutional": 1.81
     }
   },
   "GRINDWELL": {

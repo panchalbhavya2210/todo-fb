@@ -1,37 +1,8 @@
 {
-  "time": "2026-07-17T06:01:25.679Z",
+  "time": "2026-07-18T19:10:04.296Z",
   "new": [
-    "FORCEMOT",
-    "CHAMBLFERT",
-    "COSMOFIRST",
-    "RPPINFRA",
-    "BETA",
-    "MASTERTR",
-    "BBOX",
-    "SUYOG",
-    "JMA",
-    "CAPITALSFB",
-    "HITECHCORP",
-    "IPCALAB",
-    "SAKAR",
-    "STANLEY",
-    "QUICKHEAL",
-    "RENUKA",
-    "MANBA",
-    "ALICON",
-    "MARUTI",
-    "POWERMECH",
-    "GFLLIMITED",
-    "MIDHANI",
-    "CEIGALL",
-    "UNIVCABLES",
-    "INSECTICID",
-    "MADRASFERT",
-    "BRNL",
-    "CHEMBOND"
+    "GREENPOWER"
   ],
-  "revised": [
-    "BLUEJET"
-  ],
-  "totalProcessed": 29
+  "revised": [],
+  "totalProcessed": 1
 }
