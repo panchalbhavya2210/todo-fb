@@ -28,9 +28,7 @@ jobs:
       - name: Run CDSL scraper
         run: npm run scrape
 
-      # ---- NSE ----
-      - name: Run NSE Shareholding scraper
-        run: npm run scrape:nse
+    
 
         # ---- NET ----
       - name: Run NET Shareholding scraper
